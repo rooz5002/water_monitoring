@@ -1,0 +1,985 @@
+Sample_ID,Timestamp,Site_ID,Site_Name,Location,Latitude,Longitude,Water_Body_Type,pH,Turbidity_NTU,EC_uS_cm,TDS_ppm,TDS_mg_L,WQI_Class,WQI_Code,Battery_V,Battery_Pct,Cycle_Index
+AFS-00001,2024-09-01 06:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285059,118.620494,Lake,7.6,1.4,2268,1.4,1400.0,Poor,2,3.72,31,1
+AFS-00002,2024-09-01 06:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.28503,118.62023,Lake,7.9,0.8,2262,1.4,1400.0,Poor,2,3.78,39,2
+AFS-00003,2024-09-01 07:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.28533,118.620159,Lake,7.9,3.9,1942,1.1,1100.0,Poor,2,3.89,55,3
+AFS-00004,2024-09-01 07:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284961,118.62016,Lake,8.3,0.8,1767,1.0,1000.0,Poor,2,3.84,48,4
+AFS-00005,2024-09-01 08:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284526,118.619783,Lake,8.3,1.3,604,0.3,300.0,Moderate,1,3.93,61,5
+AFS-00006,2024-09-01 08:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284796,118.620394,Lake,8.0,19.3,246,0.1,100.0,Moderate,1,3.89,55,6
+AFS-00007,2024-09-01 09:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284676,118.62074,Lake,8.1,1.6,728,0.3,300.0,Moderate,1,3.96,65,7
+AFS-00008,2024-09-01 09:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.28512,118.619873,Lake,8.0,2.9,650,0.3,300.0,Moderate,1,3.99,70,8
+AFS-00009,2024-09-01 10:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285133,118.619955,Lake,7.7,6.4,271,0.1,100.0,Moderate,1,4.04,77,9
+AFS-00010,2024-09-01 10:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.28492,118.620212,Lake,7.9,8.0,214,0.1,100.0,Moderate,1,4.08,82,10
+AFS-00011,2024-09-01 11:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285656,118.620296,Lake,7.9,4.1,346,0.2,200.0,Good,0,4.07,81,11
+AFS-00012,2024-09-01 11:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285347,118.619934,Lake,7.9,3.1,659,0.3,300.0,Moderate,1,4.04,77,12
+AFS-00013,2024-09-01 12:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284512,118.619902,Lake,8.2,0.5,139,0.1,100.0,Good,0,4.11,87,13
+AFS-00014,2024-09-01 12:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285322,118.620351,Lake,9.0,0.7,153,0.1,100.0,Moderate,1,4.11,87,14
+AFS-00015,2024-09-01 13:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.28501,118.619856,Lake,9.4,0.8,180,0.1,100.0,Poor,2,4.06,79,15
+AFS-00016,2024-09-01 13:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284962,118.620617,Lake,8.8,1.1,222,0.1,100.0,Moderate,1,4.03,75,16
+AFS-00017,2024-09-01 14:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284571,118.620397,Lake,8.4,2.2,224,0.1,100.0,Good,0,4.02,74,17
+AFS-00018,2024-09-01 14:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284897,118.620484,Lake,7.7,27.5,124,0.1,100.0,Poor,2,3.98,68,18
+AFS-00019,2024-09-01 15:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285379,118.620048,Lake,8.3,3.3,205,0.1,100.0,Good,0,3.97,67,19
+AFS-00020,2024-09-01 15:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285199,118.620593,Lake,8.0,4.7,152,0.1,100.0,Good,0,3.9,57,20
+AFS-00021,2024-09-01 16:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285044,118.619968,Lake,7.6,7.4,109,0.1,100.0,Moderate,1,3.79,41,21
+AFS-00022,2024-09-01 16:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285344,118.620707,Lake,7.6,8.5,92,0.0,0.0,Moderate,1,3.75,35,22
+AFS-00023,2024-09-01 17:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285401,118.620408,Lake,7.8,6.5,102,0.1,100.0,Moderate,1,3.7,28,23
+AFS-00024,2024-09-01 17:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285208,118.620761,Lake,8.0,6.9,120,0.1,100.0,Moderate,1,3.67,24,24
+AFS-00025,2024-09-01 18:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285569,118.619514,Lake,7.4,4.0,34,0.0,0.0,Good,0,3.68,25,25
+AFS-00026,2024-09-01 18:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285126,118.62021,Lake,7.4,4.1,36,0.0,0.0,Good,0,3.72,31,26
+AFS-00027,2024-09-01 19:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284504,118.620234,Lake,7.5,4.2,41,0.0,0.0,Good,0,3.66,22,27
+AFS-00028,2024-09-01 19:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285543,118.620145,Lake,7.3,16.7,44,0.0,0.0,Moderate,1,3.68,25,28
+AFS-00029,2024-09-01 20:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284949,118.620575,Lake,7.4,13.2,48,0.2,200.0,Moderate,1,3.6,14,29
+AFS-00030,2024-09-01 20:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284941,118.620454,Lake,7.5,9.3,40,0.3,300.0,Moderate,1,3.66,22,30
+AFS-00031,2024-09-01 21:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285391,118.620089,Lake,8.1,8.9,69,0.2,200.0,Moderate,1,3.62,17,31
+AFS-00032,2024-09-01 21:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284982,118.619861,Lake,7.1,11.4,42,0.0,0.0,Moderate,1,3.6,14,32
+AFS-00033,2024-09-01 22:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285178,118.620302,Lake,6.9,4.8,41,0.0,0.0,Good,0,3.61,15,33
+AFS-00034,2024-09-01 22:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284675,118.620174,Lake,7.1,4.5,42,0.0,0.0,Good,0,3.59,12,34
+AFS-00035,2024-09-01 23:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284859,118.620252,Lake,7.3,8.9,37,0.0,0.0,Moderate,1,3.56,8,35
+AFS-00036,2024-09-01 23:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285666,118.620352,Lake,7.6,15.0,40,0.0,0.0,Moderate,1,3.6,14,36
+AFS-00037,2024-09-02 00:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285078,118.619724,Lake,7.5,1.7,107,0.1,100.0,Good,0,3.57,9,37
+AFS-00038,2024-09-02 00:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285118,118.621039,Lake,7.6,1.8,52,0.0,0.0,Good,0,3.56,8,38
+AFS-00039,2024-09-02 01:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.28519,118.62029,Lake,7.6,1.1,85,0.0,0.0,Good,0,3.53,4,39
+AFS-00040,2024-09-02 01:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285443,118.620526,Lake,7.4,4.2,101,0.0,0.0,Good,0,3.5,0,40
+AFS-00041,2024-09-02 02:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284827,118.620721,Lake,7.4,3.0,193,0.1,100.0,Good,0,3.56,8,41
+AFS-00042,2024-09-02 02:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285276,118.620957,Lake,7.7,6.7,60,0.0,0.0,Moderate,1,3.5,0,42
+AFS-00043,2024-09-02 03:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.28493,118.62033,Lake,7.8,7.0,6104,3.0,3000.0,Poor,2,3.5,0,43
+AFS-00044,2024-09-02 03:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284635,118.620321,Lake,7.6,9.5,62,0.0,0.0,Moderate,1,3.5,0,44
+AFS-00045,2024-09-02 04:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285242,118.620024,Lake,7.4,7.7,70,0.0,0.0,Moderate,1,3.5,0,45
+AFS-00046,2024-09-02 04:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284865,118.620203,Lake,7.4,2.9,74,0.1,100.0,Good,0,3.56,8,46
+AFS-00047,2024-09-02 05:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284731,118.620368,Lake,7.6,2.3,460,0.0,0.0,Good,0,3.5,0,47
+AFS-00048,2024-09-02 05:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284618,118.620355,Lake,7.9,2.3,64,0.0,0.0,Good,0,3.53,4,48
+AFS-00049,2024-09-02 06:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285335,118.619929,Lake,7.0,3.0,53,0.0,0.0,Good,0,3.71,30,49
+AFS-00050,2024-09-02 06:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285257,118.620389,Lake,7.0,2.8,560,11.0,11000.0,Poor,2,3.63,18,50
+AFS-00051,2024-09-02 07:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285204,118.620096,Lake,7.1,6.1,91,0.0,0.0,Moderate,1,3.83,47,51
+AFS-00052,2024-09-02 07:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285188,118.620086,Lake,7.0,11.5,106,0.1,100.0,Moderate,1,3.82,45,52
+AFS-00053,2024-09-02 08:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285242,118.619943,Lake,7.2,9.6,101,0.0,0.0,Moderate,1,4.01,72,53
+AFS-00054,2024-09-02 08:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284808,118.620536,Lake,7.2,8.3,69,0.0,0.0,Moderate,1,3.95,64,54
+AFS-00055,2024-09-02 09:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284854,118.620589,Lake,7.3,11.8,780,0.0,0.0,Moderate,1,4.06,79,55
+AFS-00056,2024-09-02 09:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285347,118.620869,Lake,6.9,8.0,65,0.0,0.0,Moderate,1,4.02,74,56
+AFS-00057,2024-09-02 10:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284874,118.620033,Lake,6.9,6.7,63,2.0,2000.0,Poor,2,4.05,78,57
+AFS-00058,2024-09-02 10:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285077,118.620402,Lake,6.8,4.5,54,0.8,800.0,Moderate,1,4.02,74,58
+AFS-00059,2024-09-02 11:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285348,118.620304,Lake,6.8,2.6,51,0.7,700.0,Moderate,1,4.11,87,59
+AFS-00060,2024-09-02 11:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285021,118.621116,Lake,7.0,3.7,54,0.2,200.0,Good,0,4.17,95,60
+AFS-00061,2024-09-02 12:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284843,118.619979,Lake,7.6,3.8,68,0.0,0.0,Good,0,4.13,89,61
+AFS-00062,2024-09-02 12:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285033,118.620514,Lake,7.6,4.2,70,0.0,0.0,Good,0,4.12,88,62
+AFS-00063,2024-09-02 13:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285078,118.620046,Lake,7.8,2.8,84,0.0,0.0,Good,0,4.09,84,63
+AFS-00064,2024-09-02 13:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284966,118.620557,Lake,7.2,9.1,117,0.1,100.0,Moderate,1,3.99,70,64
+AFS-00065,2024-09-02 14:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284726,118.620352,Lake,7.2,7.7,122,0.1,100.0,Moderate,1,4.01,72,65
+AFS-00066,2024-09-02 14:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284835,118.620346,Lake,7.6,12.4,118,0.1,100.0,Moderate,1,4.02,74,66
+AFS-00067,2024-09-02 15:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284757,118.620407,Lake,7.7,9.8,121,0.1,100.0,Moderate,1,3.92,60,67
+AFS-00068,2024-09-02 15:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285425,118.620616,Lake,7.1,9.4,100,0.0,0.0,Moderate,1,3.94,62,68
+AFS-00069,2024-09-02 16:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284819,118.620455,Lake,7.2,8.6,92,0.0,0.0,Moderate,1,3.74,34,69
+AFS-00070,2024-09-02 16:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285255,118.621456,Lake,7.3,7.0,94,0.0,0.0,Moderate,1,3.84,48,70
+AFS-00071,2024-09-02 17:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285441,118.620586,Lake,7.1,3.2,780,0.0,0.0,Moderate,1,3.73,32,71
+AFS-00072,2024-09-02 17:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285005,118.620528,Lake,7.1,3.0,80,0.0,0.0,Good,0,3.73,32,72
+AFS-00073,2024-09-02 18:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285029,118.620154,Lake,7.2,1.7,651,0.4,400.0,Moderate,1,3.64,20,73
+AFS-00074,2024-09-02 18:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285794,118.61974,Lake,7.2,1.9,142,0.1,100.0,Good,0,3.68,25,74
+AFS-00075,2024-09-02 19:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284616,118.620158,Lake,7.2,3.6,114,0.1,100.0,Good,0,3.69,27,75
+AFS-00076,2024-09-02 19:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285119,118.619977,Lake,7.3,6.5,154,0.1,100.0,Moderate,1,3.71,30,76
+AFS-00077,2024-09-02 20:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285304,118.620081,Lake,7.3,3.3,176,0.1,100.0,Good,0,3.6,14,77
+AFS-00078,2024-09-02 20:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285114,118.620105,Lake,7.3,4.1,123,0.1,100.0,Good,0,3.65,21,78
+AFS-00079,2024-09-02 21:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.28529,118.619692,Lake,7.3,16.4,2768,1.3,1300.0,Poor,2,3.73,32,79
+AFS-00080,2024-09-02 21:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284901,118.620556,Lake,6.9,8.6,86,0.0,0.0,Moderate,1,3.63,18,80
+AFS-00081,2024-09-02 22:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285066,118.620451,Lake,7.0,6.8,72,0.0,0.0,Moderate,1,3.56,8,81
+AFS-00082,2024-09-02 22:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.28474,118.6202,Lake,9.6,6.8,145,0.1,100.0,Poor,2,3.64,20,82
+AFS-00083,2024-09-02 23:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284904,118.62083,Lake,6.9,3.1,79,0.0,0.0,Good,0,3.56,8,83
+AFS-00084,2024-09-02 23:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284722,118.620575,Lake,7.1,3.2,208,0.1,100.0,Good,0,3.6,14,84
+AFS-00085,2024-09-03 00:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.28541,118.619844,Lake,8.5,1.8,258,0.2,200.0,Good,0,3.67,24,85
+AFS-00086,2024-09-03 00:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.28548,118.620088,Lake,8.3,2.2,271,0.2,200.0,Good,0,3.54,5,86
+AFS-00087,2024-09-03 01:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285332,118.620022,Lake,7.9,9.4,312,0.2,200.0,Moderate,1,3.56,8,87
+AFS-00088,2024-09-03 01:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284128,118.619993,Lake,7.9,15.8,411,0.2,200.0,Moderate,1,3.54,5,88
+AFS-00089,2024-09-03 02:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284726,118.62079,Lake,8.0,19.1,443,0.2,200.0,Moderate,1,3.51,1,89
+AFS-00090,2024-09-03 02:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284968,118.620339,Lake,7.8,7.7,453,0.2,200.0,Moderate,1,3.5,0,90
+AFS-00091,2024-09-03 03:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284669,118.620649,Lake,8.1,13.7,507,0.2,200.0,Moderate,1,3.57,9,91
+AFS-00092,2024-09-03 03:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284806,118.620439,Lake,7.8,15.5,484,0.2,200.0,Moderate,1,3.5,0,92
+AFS-00093,2024-09-03 04:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.28492,118.620321,Lake,7.6,8.4,459,0.2,200.0,Moderate,1,3.5,0,93
+AFS-00094,2024-09-03 04:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285134,118.620499,Lake,8.0,4.4,429,0.2,200.0,Good,0,3.5,0,94
+AFS-00095,2024-09-03 05:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284729,118.62094,Lake,8.1,2.2,318,0.2,200.0,Good,0,3.54,5,95
+AFS-00096,2024-09-03 05:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285054,118.620476,Lake,8.5,1.4,341,0.2,200.0,Good,0,3.5,0,96
+AFS-00097,2024-09-03 06:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284913,118.620238,Lake,7.1,7.1,12389,7.7,7700.0,Poor,2,3.71,30,97
+AFS-00098,2024-09-03 06:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284923,118.620555,Lake,7.5,8.8,17294,11.1,11100.0,Poor,2,3.68,25,98
+AFS-00099,2024-09-03 07:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284892,118.62057,Lake,7.4,12.2,16220,9.6,9600.0,Poor,2,3.83,47,99
+AFS-00100,2024-09-03 07:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285344,118.620489,Lake,8.5,16.8,12650,7.1,7100.0,Poor,2,3.83,47,100
+AFS-00101,2024-09-03 08:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284932,118.620524,Lake,7.3,7.0,10736,6.2,6200.0,Poor,2,3.87,52,101
+AFS-00102,2024-09-03 08:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285094,118.620335,Lake,7.4,14.7,1038,0.5,500.0,Moderate,1,3.95,64,102
+AFS-00103,2024-09-03 09:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284923,118.620464,Lake,7.7,10.5,5604,2.7,2700.0,Poor,2,4.07,81,103
+AFS-00104,2024-09-03 09:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285035,118.62063,Lake,7.4,36.5,364,0.2,200.0,Poor,2,3.99,70,104
+AFS-00105,2024-09-03 10:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285344,118.620692,Lake,7.3,7.3,1690,0.8,800.0,Poor,2,4.11,87,105
+AFS-00106,2024-09-03 10:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285305,118.620207,Lake,7.2,5.5,8732,4.8,4800.0,Poor,2,4.06,79,106
+AFS-00107,2024-09-03 11:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285061,118.620329,Lake,7.4,7.3,10038,5.9,5900.0,Poor,2,4.11,87,107
+AFS-00108,2024-09-03 11:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284855,118.620928,Lake,7.2,8.1,14712,8.7,8700.0,Poor,2,4.13,89,108
+AFS-00109,2024-09-03 12:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284736,118.620647,Lake,7.3,7.6,286,0.2,200.0,Moderate,1,4.05,78,109
+AFS-00110,2024-09-03 12:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285287,118.620489,Lake,7.5,4.9,372,0.2,200.0,Good,0,4.14,91,110
+AFS-00111,2024-09-03 13:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284831,118.620323,Lake,7.6,8.8,398,0.2,200.0,Moderate,1,4.06,79,111
+AFS-00112,2024-09-03 13:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285393,118.620256,Lake,8.1,7.9,440,0.2,200.0,Moderate,1,4.03,75,112
+AFS-00113,2024-09-03 14:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285004,118.620424,Lake,7.8,5.1,463,0.2,200.0,Moderate,1,3.96,65,113
+AFS-00114,2024-09-03 14:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284853,118.620373,Lake,7.4,19.4,273,0.1,100.0,Moderate,1,3.97,67,114
+AFS-00115,2024-09-03 15:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284948,118.620159,Lake,7.7,17.1,307,0.1,100.0,Moderate,1,3.93,61,115
+AFS-00116,2024-09-03 15:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284666,118.619878,Lake,7.1,81.3,157,0.1,100.0,Poor,2,3.93,61,116
+AFS-00117,2024-09-03 16:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285036,118.620393,Lake,7.6,6.4,242,0.1,100.0,Moderate,1,3.78,39,117
+AFS-00118,2024-09-03 16:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285357,118.620252,Lake,7.4,9.2,227,0.1,100.0,Moderate,1,3.89,55,118
+AFS-00119,2024-09-03 17:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284799,118.620294,Lake,7.4,15.0,237,0.1,100.0,Moderate,1,3.7,28,119
+AFS-00120,2024-09-03 17:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285197,118.620052,Lake,7.4,4.6,244,0.1,100.0,Good,0,3.69,27,120
+AFS-00121,2024-09-03 18:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.28556,118.620267,Lake,7.0,5.3,272,0.2,200.0,Moderate,1,3.71,30,121
+AFS-00122,2024-09-03 18:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285307,118.62018,Lake,7.1,7.1,541,0.3,300.0,Moderate,1,3.7,28,122
+AFS-00123,2024-09-03 19:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285104,118.620329,Lake,7.4,11.1,572,0.3,300.0,Moderate,1,3.67,24,123
+AFS-00124,2024-09-03 19:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285107,118.620449,Lake,7.1,8.7,405,0.2,200.0,Moderate,1,3.62,17,124
+AFS-00125,2024-09-03 20:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285388,118.620946,Lake,7.2,7.8,344,0.2,200.0,Moderate,1,3.71,30,125
+AFS-00126,2024-09-03 20:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285362,118.620355,Lake,7.3,13.2,357,0.2,200.0,Moderate,1,3.6,14,126
+AFS-00127,2024-09-03 21:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284858,118.620048,Lake,7.1,11.8,317,0.1,100.0,Moderate,1,3.73,32,127
+AFS-00128,2024-09-03 21:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284463,118.620142,Lake,7.0,68.8,171,0.1,100.0,Poor,2,3.59,12,128
+AFS-00129,2024-09-03 22:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285145,118.620403,Lake,7.2,8.2,2800,0.1,100.0,Poor,2,3.56,8,129
+AFS-00130,2024-09-03 22:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285385,118.620127,Lake,7.1,9.2,206,0.1,100.0,Moderate,1,3.69,27,130
+AFS-00131,2024-09-03 23:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285248,118.619904,Lake,7.3,9.4,410,0.2,200.0,Moderate,1,3.54,5,131
+AFS-00132,2024-09-03 23:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285454,118.620159,Lake,7.0,3.8,236,0.1,100.0,Good,0,3.67,24,132
+AFS-00133,2024-09-04 00:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285506,118.620266,Lake,7.2,58.4,133,0.1,100.0,Poor,2,3.5,0,133
+AFS-00134,2024-09-04 00:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284622,118.62012,Lake,7.2,65.7,225,0.1,100.0,Poor,2,3.62,17,134
+AFS-00135,2024-09-04 01:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285114,118.620165,Lake,7.1,21.4,231,0.1,100.0,Moderate,1,3.54,5,135
+AFS-00136,2024-09-04 01:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.28478,118.620257,Lake,7.3,39.1,289,0.1,100.0,Poor,2,3.57,9,136
+AFS-00137,2024-09-04 02:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285254,118.620513,Lake,7.4,37.9,252,0.1,100.0,Poor,2,3.53,4,137
+AFS-00138,2024-09-04 02:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.28464,118.620683,Lake,7.6,209.7,220,0.1,100.0,Poor,2,3.5,0,138
+AFS-00139,2024-09-04 03:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284875,118.620765,Lake,7.0,198.8,190,0.1,100.0,Poor,2,3.52,2,139
+AFS-00140,2024-09-04 03:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285454,118.62032,Lake,7.0,3912.7,118,0.1,100.0,Poor,2,3.51,1,140
+AFS-00141,2024-09-04 04:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285627,118.620225,Lake,7.1,16.3,1500,0.1,100.0,Poor,2,3.58,11,141
+AFS-00142,2024-09-04 04:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285294,118.620711,Lake,7.2,12.7,153,0.1,100.0,Moderate,1,3.53,4,142
+AFS-00143,2024-09-04 05:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285306,118.620618,Lake,7.3,12.0,191,0.1,100.0,Moderate,1,3.5,0,143
+AFS-00144,2024-09-04 05:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284745,118.619688,Lake,7.3,23.3,178,0.1,100.0,Moderate,1,3.5,0,144
+AFS-00145,2024-09-04 06:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285315,118.620751,Lake,7.0,7.8,267,0.2,200.0,Moderate,1,3.69,27,145
+AFS-00146,2024-09-04 06:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285589,118.619886,Lake,7.0,14.8,506,0.3,300.0,Moderate,1,3.7,28,146
+AFS-00147,2024-09-04 07:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285083,118.620415,Lake,7.1,18.9,522,0.3,300.0,Moderate,1,3.73,32,147
+AFS-00148,2024-09-04 07:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.28448,118.620273,Lake,7.1,25.0,594,0.3,300.0,Poor,2,3.81,44,148
+AFS-00149,2024-09-04 08:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285301,118.62041,Lake,7.3,18.2,613,0.3,300.0,Moderate,1,3.85,50,149
+AFS-00150,2024-09-04 08:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284946,118.619982,Lake,7.2,10.9,524,0.2,200.0,Moderate,1,3.87,52,150
+AFS-00151,2024-09-04 09:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285387,118.620004,Lake,7.1,21.0,363,0.2,200.0,Moderate,1,4.0,71,151
+AFS-00152,2024-09-04 09:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284941,118.620062,Lake,7.1,13.6,421,0.2,200.0,Moderate,1,4.03,75,152
+AFS-00153,2024-09-04 10:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284789,118.620134,Lake,7.2,16.7,522,0.2,200.0,Moderate,1,4.06,79,153
+AFS-00154,2024-09-04 10:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285689,118.620311,Lake,7.1,12.3,404,0.2,200.0,Moderate,1,4.0,71,154
+AFS-00155,2024-09-04 11:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285164,118.620266,Lake,7.1,7.3,453,0.2,200.0,Moderate,1,4.06,79,155
+AFS-00156,2024-09-04 11:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285284,118.620527,Lake,7.1,4.6,433,0.2,200.0,Good,0,4.08,82,156
+AFS-00157,2024-09-04 12:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284927,118.620217,Lake,7.3,6.0,158,0.1,100.0,Moderate,1,4.07,81,157
+AFS-00158,2024-09-04 12:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284645,118.62071,Lake,7.3,6.1,191,0.1,100.0,Moderate,1,3.98,68,158
+AFS-00159,2024-09-04 13:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285025,118.620473,Lake,7.4,10.5,2280,0.1,100.0,Poor,2,4.15,92,159
+AFS-00160,2024-09-04 13:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.286024,118.620636,Lake,7.3,4.4,255,0.1,100.0,Good,0,4.08,82,160
+AFS-00161,2024-09-04 14:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284813,118.619818,Lake,7.5,6.3,273,0.1,100.0,Moderate,1,4.0,71,161
+AFS-00162,2024-09-04 14:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284873,118.619873,Lake,7.5,52.0,230,0.1,100.0,Poor,2,4.01,72,162
+AFS-00163,2024-09-04 15:00:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.284776,118.620806,Lake,7.4,9.9,200,0.1,100.0,Moderate,1,3.88,54,163
+AFS-00164,2024-09-04 15:30:00,HAS-01,Hongze Lake North Basin,"Hongze Lake, Huai'an, Jiangsu",33.285098,118.620744,Lake,7.3,69.3,117,0.1,100.0,Poor,2,3.96,65,164
+AFS-00165,2024-09-01 06:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103942,118.832157,Lake,7.6,13.4,164,0.1,100.0,Moderate,1,3.7,28,1
+AFS-00166,2024-09-01 06:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103889,118.831643,Lake,7.4,10.0,159,0.1,100.0,Moderate,1,3.73,32,2
+AFS-00167,2024-09-01 07:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103785,118.831978,Lake,7.3,5.5,169,0.1,100.0,Moderate,1,3.77,38,3
+AFS-00168,2024-09-01 07:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.10378,118.831869,Lake,7.3,6.3,176,0.1,100.0,Moderate,1,3.91,58,4
+AFS-00169,2024-09-01 08:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104054,118.831522,Lake,7.6,1.9,150,0.1,100.0,Good,0,3.88,54,5
+AFS-00170,2024-09-01 08:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104215,118.831451,Lake,7.9,1.3,162,0.1,100.0,Good,0,3.87,52,6
+AFS-00171,2024-09-01 09:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104185,118.831628,Lake,7.9,1.8,190,0.1,100.0,Good,0,4.02,74,7
+AFS-00172,2024-09-01 09:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104027,118.831927,Lake,7.9,3.2,207,0.1,100.0,Good,0,3.96,65,8
+AFS-00173,2024-09-01 10:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103907,118.83173,Lake,8.0,2.3,2390,0.1,100.0,Poor,2,4.09,84,9
+AFS-00174,2024-09-01 10:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103699,118.831863,Lake,7.7,4.5,198,0.1,100.0,Good,0,4.1,85,10
+AFS-00175,2024-09-01 11:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104371,118.831471,Lake,7.5,4.9,188,0.1,100.0,Good,0,4.06,79,11
+AFS-00176,2024-09-01 11:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103712,118.831714,Lake,7.2,43.0,145,0.1,100.0,Poor,2,4.01,72,12
+AFS-00177,2024-09-01 12:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103929,118.831892,Lake,7.5,4.5,133,0.1,100.0,Good,0,4.11,87,13
+AFS-00178,2024-09-01 12:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.10418,118.831337,Lake,7.4,3.9,111,0.1,100.0,Good,0,4.01,72,14
+AFS-00179,2024-09-01 13:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104214,118.831442,Lake,7.7,2.2,140,0.1,100.0,Good,0,4.03,75,15
+AFS-00180,2024-09-01 13:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104502,118.831527,Lake,7.7,1.9,149,0.1,100.0,Good,0,4.04,77,16
+AFS-00181,2024-09-01 14:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103861,118.831859,Lake,7.5,0.9,161,0.1,100.0,Good,0,4.04,77,17
+AFS-00182,2024-09-01 14:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103459,118.831461,Lake,7.6,1.4,184,0.1,100.0,Good,0,4.07,81,18
+AFS-00183,2024-09-01 15:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104139,118.831811,Lake,7.3,1.1,183,0.1,100.0,Good,0,3.95,64,19
+AFS-00184,2024-09-01 15:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104226,118.831653,Lake,7.7,1.2,208,0.1,100.0,Good,0,3.89,55,20
+AFS-00185,2024-09-01 16:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104276,118.831801,Lake,7.9,2.3,211,0.1,100.0,Good,0,3.87,52,21
+AFS-00186,2024-09-01 16:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104054,118.83157,Lake,7.6,7.3,118,0.1,100.0,Moderate,1,3.79,41,22
+AFS-00187,2024-09-01 17:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104074,118.831787,Lake,7.6,2.4,150,0.1,100.0,Good,0,3.72,31,23
+AFS-00188,2024-09-01 17:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104461,118.831602,Lake,7.4,1.4,190,0.1,100.0,Good,0,3.8,42,24
+AFS-00189,2024-09-01 18:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104078,118.831089,Lake,7.1,5.9,106,0.1,100.0,Moderate,1,3.74,34,25
+AFS-00190,2024-09-01 18:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103639,118.831595,Lake,7.3,1.6,131,0.1,100.0,Good,0,3.63,18,26
+AFS-00191,2024-09-01 19:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104703,118.831798,Lake,7.0,1.7,150,0.1,100.0,Good,0,3.66,22,27
+AFS-00192,2024-09-01 19:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104449,118.831037,Lake,7.5,1.9,166,0.1,100.0,Good,0,3.65,21,28
+AFS-00193,2024-09-01 20:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104431,118.831256,Lake,7.2,8.0,2310,0.1,100.0,Poor,2,3.65,21,29
+AFS-00194,2024-09-01 20:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104302,118.831575,Lake,7.3,18.1,234,0.1,100.0,Moderate,1,3.7,28,30
+AFS-00195,2024-09-01 21:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104881,118.831755,Lake,7.2,5.2,246,0.1,100.0,Moderate,1,3.65,21,31
+AFS-00196,2024-09-01 21:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104062,118.831445,Lake,7.3,5.5,290,0.1,100.0,Moderate,1,3.63,18,32
+AFS-00197,2024-09-01 22:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103943,118.831721,Lake,7.3,7.9,284,0.1,100.0,Moderate,1,3.64,20,33
+AFS-00198,2024-09-01 22:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104344,118.8318,Lake,7.2,11.1,1600,0.1,100.0,Poor,2,3.58,11,34
+AFS-00199,2024-09-01 23:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104047,118.831619,Lake,7.1,4.4,208,0.1,100.0,Good,0,3.63,18,35
+AFS-00200,2024-09-01 23:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104067,118.831813,Lake,7.1,2.7,248,0.1,100.0,Good,0,3.53,4,36
+AFS-00201,2024-09-02 00:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103923,118.831961,Lake,7.0,6.0,170,0.1,100.0,Moderate,1,3.6,14,37
+AFS-00202,2024-09-02 00:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104324,118.832263,Lake,7.1,16.1,186,0.1,100.0,Moderate,1,3.63,18,38
+AFS-00203,2024-09-02 01:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103827,118.831166,Lake,7.1,64.3,207,0.1,100.0,Poor,2,3.5,0,39
+AFS-00204,2024-09-02 01:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104396,118.831683,Lake,7.2,6.6,245,0.1,100.0,Moderate,1,3.61,15,40
+AFS-00205,2024-09-02 02:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103862,118.832434,Lake,7.4,5.4,187,0.1,100.0,Moderate,1,3.53,4,41
+AFS-00206,2024-09-02 02:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104233,118.831918,Lake,7.6,13.4,210,0.1,100.0,Moderate,1,3.53,4,42
+AFS-00207,2024-09-02 03:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104267,118.831463,Lake,7.4,4.4,215,0.1,100.0,Good,0,3.52,2,43
+AFS-00208,2024-09-02 03:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104765,118.832104,Lake,7.6,4.5,237,0.1,100.0,Good,0,3.52,2,44
+AFS-00209,2024-09-02 04:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104047,118.831403,Lake,7.7,2.2,2470,0.1,100.0,Poor,2,3.56,8,45
+AFS-00210,2024-09-02 04:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104217,118.832028,Lake,7.7,4.5,159,0.1,100.0,Good,0,3.5,0,46
+AFS-00211,2024-09-02 05:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104659,118.831653,Lake,7.6,4.1,198,0.1,100.0,Good,0,3.5,0,47
+AFS-00212,2024-09-02 05:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103896,118.831204,Lake,7.5,4.7,252,0.1,100.0,Good,0,3.5,0,48
+AFS-00213,2024-09-02 06:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104222,118.831313,Lake,7.3,4.1,1120,0.1,100.0,Moderate,1,3.74,34,49
+AFS-00214,2024-09-02 06:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104099,118.832201,Lake,7.5,3.5,194,0.1,100.0,Good,0,3.64,20,50
+AFS-00215,2024-09-02 07:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103749,118.831626,Lake,7.1,2.1,201,0.1,100.0,Good,0,3.8,42,51
+AFS-00216,2024-09-02 07:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103391,118.831684,Lake,7.5,3.3,194,0.1,100.0,Good,0,3.8,42,52
+AFS-00217,2024-09-02 08:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104409,118.832255,Lake,7.1,1.2,20271,13.6,13600.0,Poor,2,3.9,57,53
+AFS-00218,2024-09-02 08:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104119,118.831368,Lake,7.4,1.4,23568,15.6,15600.0,Poor,2,3.97,67,54
+AFS-00219,2024-09-02 09:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104218,118.831704,Lake,7.4,6.7,23146,14.5,14500.0,Poor,2,4.13,89,55
+AFS-00220,2024-09-02 09:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104259,118.831657,Lake,7.2,2.0,22213,13.1,13100.0,Poor,2,4.0,71,56
+AFS-00221,2024-09-02 10:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104036,118.83169,Lake,7.2,1.5,23519,13.6,13600.0,Poor,2,4.04,77,57
+AFS-00222,2024-09-02 10:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103986,118.831732,Lake,7.3,3.5,19188,10.4,10400.0,Poor,2,4.04,77,58
+AFS-00223,2024-09-02 11:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104651,118.830905,Lake,7.4,1.5,23176,12.5,12500.0,Poor,2,4.08,82,59
+AFS-00224,2024-09-02 11:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104574,118.831078,Lake,7.3,1.4,25288,13.7,13700.0,Poor,2,4.15,92,60
+AFS-00225,2024-09-02 12:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104089,118.831278,Lake,7.2,1.1,17005,9.3,9300.0,Poor,2,4.08,82,61
+AFS-00226,2024-09-02 12:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103867,118.832226,Lake,7.5,2.3,19844,11.4,11400.0,Poor,2,4.06,79,62
+AFS-00227,2024-09-02 13:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104581,118.831917,Lake,7.2,3.1,21019,12.1,12100.0,Poor,2,4.11,87,63
+AFS-00228,2024-09-02 13:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104043,118.831847,Lake,7.1,1.7,24772,15.9,15900.0,Poor,2,4.01,72,64
+AFS-00229,2024-09-02 14:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104414,118.831628,Lake,7.2,1.6,18465,12.2,12200.0,Poor,2,3.94,62,65
+AFS-00230,2024-09-02 14:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104413,118.831833,Lake,7.4,2.3,20326,13.0,13000.0,Poor,2,3.98,68,66
+AFS-00231,2024-09-02 15:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104548,118.831376,Lake,7.4,3.2,20358,12.3,12300.0,Poor,2,3.9,57,67
+AFS-00232,2024-09-02 15:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104378,118.831607,Lake,7.3,4.2,21434,12.5,12500.0,Poor,2,3.95,64,68
+AFS-00233,2024-09-02 16:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103825,118.831977,Lake,7.3,3.0,21512,12.1,12100.0,Poor,2,3.83,47,69
+AFS-00234,2024-09-02 16:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104043,118.832015,Lake,7.4,6.0,14670,7.7,7700.0,Poor,2,3.8,42,70
+AFS-00235,2024-09-02 17:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103777,118.831233,Lake,7.5,2.4,21997,11.5,11500.0,Poor,2,3.66,22,71
+AFS-00236,2024-09-02 17:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103816,118.832226,Lake,7.3,2.7,21687,11.4,11400.0,Poor,2,3.73,32,72
+AFS-00237,2024-09-02 18:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104709,118.831763,Lake,7.2,2.1,13630,7.0,7000.0,Poor,2,3.58,11,73
+AFS-00238,2024-09-02 18:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104037,118.83182,Lake,7.2,2.2,15335,8.3,8300.0,Poor,2,3.68,25,74
+AFS-00239,2024-09-02 19:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104531,118.831734,Lake,7.2,2.6,18203,10.0,10000.0,Poor,2,3.66,22,75
+AFS-00240,2024-09-02 19:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104091,118.831683,Lake,7.2,1.7,20598,12.8,12800.0,Poor,2,3.67,24,76
+AFS-00241,2024-09-02 20:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103687,118.831296,Lake,7.2,2.1,15608,10.2,10200.0,Poor,2,3.66,22,77
+AFS-00242,2024-09-02 20:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104251,118.831645,Lake,7.3,3.2,18836,11.8,11800.0,Poor,2,3.68,25,78
+AFS-00243,2024-09-02 21:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104304,118.831538,Lake,7.4,4.0,18706,11.2,11200.0,Poor,2,3.62,17,79
+AFS-00244,2024-09-02 21:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104259,118.831406,Lake,7.3,4.6,21484,12.5,12500.0,Poor,2,3.58,11,80
+AFS-00245,2024-09-02 22:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103689,118.832009,Lake,7.3,3.5,21051,11.9,11900.0,Poor,2,3.62,17,81
+AFS-00246,2024-09-02 22:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104277,118.831995,Lake,7.3,4.5,16666,8.8,8800.0,Poor,2,3.62,17,82
+AFS-00247,2024-09-02 23:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104504,118.831148,Lake,7.4,3.2,22572,12.0,12000.0,Poor,2,3.66,22,83
+AFS-00248,2024-09-02 23:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104013,118.831708,Lake,7.3,3.5,21267,11.2,11200.0,Poor,2,3.52,2,84
+AFS-00249,2024-09-03 00:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103982,118.831756,Lake,7.2,3.1,13198,6.8,6800.0,Poor,2,3.59,12,85
+AFS-00250,2024-09-03 00:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104017,118.831278,Lake,7.2,8.1,13060,7.0,7000.0,Poor,2,3.52,2,86
+AFS-00251,2024-09-03 01:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103794,118.831407,Lake,7.3,2.6,16918,9.2,9200.0,Poor,2,3.5,0,87
+AFS-00252,2024-09-03 01:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103915,118.83249,Lake,7.2,4.0,20805,13.2,13200.0,Poor,2,3.59,12,88
+AFS-00253,2024-09-03 02:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104255,118.831442,Lake,7.2,2.8,16579,10.7,10700.0,Poor,2,3.54,5,89
+AFS-00254,2024-09-03 02:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104027,118.831737,Lake,7.3,4.7,19162,11.9,11900.0,Poor,2,3.56,8,90
+AFS-00255,2024-09-03 03:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104171,118.832045,Lake,7.3,5.0,17224,10.3,10300.0,Poor,2,3.63,18,91
+AFS-00256,2024-09-03 03:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.10419,118.832231,Lake,7.2,4.0,18863,10.9,10900.0,Poor,2,3.5,0,92
+AFS-00257,2024-09-03 04:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104744,118.831912,Lake,7.3,4.7,17326,9.5,9500.0,Poor,2,3.5,0,93
+AFS-00258,2024-09-03 04:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.10439,118.831992,Lake,7.2,3.0,17669,9.3,9300.0,Poor,2,3.5,0,94
+AFS-00259,2024-09-03 05:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103729,118.831482,Lake,7.4,4.3,20552,10.8,10800.0,Poor,2,3.5,0,95
+AFS-00260,2024-09-03 05:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104178,118.831886,Lake,7.2,4.6,18772,9.7,9700.0,Poor,2,3.5,0,96
+AFS-00261,2024-09-03 06:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103799,118.831814,Lake,7.2,4.7,12222,6.3,6300.0,Poor,2,3.71,30,97
+AFS-00262,2024-09-03 06:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104368,118.832024,Lake,7.3,5.7,11278,6.0,6000.0,Poor,2,3.73,32,98
+AFS-00263,2024-09-03 07:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104338,118.831679,Lake,7.3,7.1,15087,8.1,8100.0,Poor,2,3.85,50,99
+AFS-00264,2024-09-03 07:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104329,118.831762,Lake,7.0,1.6,20382,12.7,12700.0,Poor,2,3.73,32,100
+AFS-00265,2024-09-03 08:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103817,118.831376,Lake,7.2,4.4,15234,9.7,9700.0,Poor,2,3.93,61,101
+AFS-00266,2024-09-03 08:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104188,118.831904,Lake,7.3,4.3,15688,9.6,9600.0,Poor,2,3.97,67,102
+AFS-00267,2024-09-03 09:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104209,118.831981,Lake,7.3,4.9,16500,9.7,9700.0,Poor,2,4.0,71,103
+AFS-00268,2024-09-03 09:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104229,118.831561,Lake,7.2,4.0,17553,10.0,10000.0,Poor,2,3.98,68,104
+AFS-00269,2024-09-03 10:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104107,118.831767,Lake,7.3,3.0,14319,7.7,7700.0,Poor,2,4.04,77,105
+AFS-00270,2024-09-03 10:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104577,118.831432,Lake,7.2,3.4,16981,9.0,9000.0,Poor,2,4.04,77,106
+AFS-00271,2024-09-03 11:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104068,118.832134,Lake,7.4,3.7,17878,9.1,9100.0,Poor,2,4.09,84,107
+AFS-00272,2024-09-03 11:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.10451,118.831254,Lake,7.3,3.7,17084,8.7,8700.0,Poor,2,4.11,87,108
+AFS-00273,2024-09-03 12:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104467,118.831725,Lake,7.2,6.0,11120,5.7,5700.0,Poor,2,4.11,87,109
+AFS-00274,2024-09-03 12:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104045,118.832123,Lake,7.2,3.3,11330,6.0,6000.0,Poor,2,4.15,92,110
+AFS-00275,2024-09-03 13:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104091,118.831566,Lake,7.2,3.1,14489,7.8,7800.0,Poor,2,4.18,97,111
+AFS-00276,2024-09-03 13:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104674,118.831543,Lake,7.0,4.3,16635,10.1,10100.0,Poor,2,4.14,91,112
+AFS-00277,2024-09-03 14:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104115,118.831297,Lake,7.1,2.9,15204,9.6,9600.0,Poor,2,3.98,68,113
+AFS-00278,2024-09-03 14:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103899,118.83147,Lake,7.2,2.8,15682,9.5,9500.0,Poor,2,3.96,65,114
+AFS-00279,2024-09-03 15:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.10427,118.832165,Lake,7.2,4.9,16216,9.7,9700.0,Poor,2,3.91,58,115
+AFS-00280,2024-09-03 15:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104495,118.831636,Lake,7.1,4.2,17485,9.9,9900.0,Poor,2,3.87,52,116
+AFS-00281,2024-09-03 16:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104402,118.831363,Lake,7.2,2.6,14198,7.6,7600.0,Poor,2,3.81,44,117
+AFS-00282,2024-09-03 16:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.10425,118.831848,Lake,7.2,2.9,17173,9.1,9100.0,Poor,2,3.83,47,118
+AFS-00283,2024-09-03 17:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104937,118.831509,Lake,7.3,4.3,17605,9.1,9100.0,Poor,2,3.71,30,119
+AFS-00284,2024-09-03 17:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104013,118.831533,Lake,7.1,2.8,17369,8.9,8900.0,Poor,2,3.67,24,120
+AFS-00285,2024-09-03 18:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104557,118.832126,Lake,7.1,2.5,11861,6.1,6100.0,Poor,2,3.65,21,121
+AFS-00286,2024-09-03 18:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.10395,118.831841,Lake,7.2,1.2,11850,6.3,6300.0,Poor,2,3.65,21,122
+AFS-00287,2024-09-03 19:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.10439,118.831761,Lake,7.1,3.6,14320,7.7,7700.0,Poor,2,3.63,18,123
+AFS-00288,2024-09-03 19:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104664,118.832239,Lake,6.9,2.7,16750,10.2,10200.0,Poor,2,3.58,11,124
+AFS-00289,2024-09-03 20:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104084,118.831786,Lake,7.3,9.3,320,0.2,200.0,Moderate,1,3.61,15,125
+AFS-00290,2024-09-03 20:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104398,118.832303,Lake,7.5,19.2,765,0.4,400.0,Moderate,1,3.66,22,126
+AFS-00291,2024-09-03 21:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103961,118.831286,Lake,7.6,7.0,418,0.2,200.0,Moderate,1,3.61,15,127
+AFS-00292,2024-09-03 21:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.10419,118.832238,Lake,7.9,4.4,636,0.3,300.0,Moderate,1,3.58,11,128
+AFS-00293,2024-09-03 22:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104267,118.831695,Lake,7.9,3.2,418,0.2,200.0,Good,0,3.57,9,129
+AFS-00294,2024-09-03 22:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104958,118.831541,Lake,7.5,58.2,155,0.1,100.0,Poor,2,3.66,22,130
+AFS-00295,2024-09-03 23:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104513,118.831905,Lake,7.5,21.5,326,0.1,100.0,Moderate,1,3.56,8,131
+AFS-00296,2024-09-03 23:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104375,118.831592,Lake,7.3,28.3,173,0.1,100.0,Poor,2,3.67,24,132
+AFS-00297,2024-09-04 00:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104533,118.831946,Lake,7.5,7.0,293,0.1,100.0,Moderate,1,3.59,12,133
+AFS-00298,2024-09-04 00:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.10452,118.832051,Lake,7.4,17.7,279,0.1,100.0,Moderate,1,3.59,12,134
+AFS-00299,2024-09-04 01:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104395,118.83165,Lake,7.6,2.9,424,0.2,200.0,Good,0,3.61,15,135
+AFS-00300,2024-09-04 01:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104562,118.831455,Lake,7.6,4.8,361,0.2,200.0,Good,0,3.55,7,136
+AFS-00301,2024-09-04 02:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104082,118.831709,Lake,7.4,8.5,339,0.2,200.0,Moderate,1,3.54,5,137
+AFS-00302,2024-09-04 02:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104257,118.831714,Lake,7.7,10.2,447,0.2,200.0,Moderate,1,3.58,11,138
+AFS-00303,2024-09-04 03:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104424,118.831894,Lake,7.6,9.4,456,0.2,200.0,Moderate,1,3.5,0,139
+AFS-00304,2024-09-04 03:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104108,118.831766,Lake,7.9,5.5,420,0.2,200.0,Moderate,1,3.61,15,140
+AFS-00305,2024-09-04 04:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104673,118.831671,Lake,7.8,8.2,432,0.2,200.0,Moderate,1,3.5,0,141
+AFS-00306,2024-09-04 04:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104382,118.831756,Lake,7.7,93.4,179,0.1,100.0,Poor,2,3.5,0,142
+AFS-00307,2024-09-04 05:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104258,118.832022,Lake,7.4,10.9,314,0.1,100.0,Moderate,1,3.5,0,143
+AFS-00308,2024-09-04 05:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.10424,118.83149,Lake,7.3,71.0,176,0.1,100.0,Poor,2,3.5,0,144
+AFS-00309,2024-09-04 06:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103743,118.831532,Lake,7.5,5.4,260,0.1,100.0,Moderate,1,3.76,37,145
+AFS-00310,2024-09-04 06:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.10467,118.83168,Lake,7.5,5.9,244,0.1,100.0,Moderate,1,3.72,31,146
+AFS-00311,2024-09-04 07:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104764,118.831266,Lake,7.6,5.4,296,0.1,100.0,Moderate,1,3.78,39,147
+AFS-00312,2024-09-04 07:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104332,118.831549,Lake,7.5,21.8,384,0.2,200.0,Moderate,1,3.7,28,148
+AFS-00313,2024-09-04 08:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104413,118.831773,Lake,7.0,7.3,4930,3.1,3100.0,Poor,2,3.87,52,149
+AFS-00314,2024-09-04 08:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103816,118.831962,Lake,7.1,2.8,4999,3.2,3200.0,Poor,2,3.89,55,150
+AFS-00315,2024-09-04 09:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.10417,118.832254,Lake,7.8,2.0,5953,3.6,3600.0,Poor,2,4.03,75,151
+AFS-00316,2024-09-04 09:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103742,118.831492,Lake,7.2,4.4,4690,2.8,2800.0,Poor,2,3.95,64,152
+AFS-00317,2024-09-04 10:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104273,118.831628,Lake,7.2,1.0,4263,2.4,2400.0,Poor,2,4.06,79,153
+AFS-00318,2024-09-04 10:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.103825,118.832133,Lake,7.3,11.6,1685,0.8,800.0,Poor,2,4.08,82,154
+AFS-00319,2024-09-04 11:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104535,118.831803,Lake,7.2,1.2,4127,2.1,2100.0,Poor,2,4.09,84,155
+AFS-00320,2024-09-04 11:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104371,118.831834,Lake,7.0,1.8,3112,1.6,1600.0,Poor,2,4.12,88,156
+AFS-00321,2024-09-04 12:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104599,118.831759,Lake,7.1,2.8,2604,1.3,1300.0,Poor,2,4.13,89,157
+AFS-00322,2024-09-04 12:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104173,118.832132,Lake,7.5,7.9,1676,0.9,900.0,Poor,2,4.13,89,158
+AFS-00323,2024-09-04 13:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.10474,118.831688,Lake,7.5,12.2,4135,2.6,2600.0,Poor,2,4.03,75,159
+AFS-00324,2024-09-04 13:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104238,118.831496,Lake,7.4,6.2,5688,3.3,3300.0,Poor,2,3.99,70,160
+AFS-00325,2024-09-04 14:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104004,118.831566,Lake,8.0,1.6,61,0.0,0.0,Good,0,4.04,77,161
+AFS-00326,2024-09-04 14:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104064,118.830973,Lake,8.1,3.7,136,0.1,100.0,Good,0,3.91,58,162
+AFS-00327,2024-09-04 15:00:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.104428,118.831936,Lake,7.8,5.0,59,0.0,0.0,Moderate,1,3.84,48,163
+AFS-00328,2024-09-04 15:30:00,HAS-02,Hongze Lake South Basin,"Hongze Lake, Huai'an, Jiangsu",33.10391,118.831686,Lake,8.0,4.6,156,0.1,100.0,Good,0,3.94,62,164
+AFS-00329,2024-09-01 06:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516352,119.183751,Lake,7.9,3.8,241,0.1,100.0,Good,0,3.7,28,1
+AFS-00330,2024-09-01 06:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516634,119.183308,Lake,7.8,4.7,244,0.1,100.0,Good,0,3.74,34,2
+AFS-00331,2024-09-01 07:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516087,119.183226,Lake,7.8,9.4,251,0.1,100.0,Moderate,1,3.82,45,3
+AFS-00332,2024-09-01 07:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.5164,119.183216,Lake,7.6,2.8,133,0.1,100.0,Good,0,3.78,39,4
+AFS-00333,2024-09-01 08:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516892,119.183129,Lake,7.8,2.7,148,0.1,100.0,Good,0,4.01,72,5
+AFS-00334,2024-09-01 08:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.51712,119.183577,Lake,8.2,3.8,199,0.1,100.0,Good,0,3.94,62,6
+AFS-00335,2024-09-01 09:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516506,119.183509,Lake,8.2,3.2,167,0.1,100.0,Good,0,4.01,72,7
+AFS-00336,2024-09-01 09:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516969,119.183491,Lake,8.1,1.7,197,0.1,100.0,Good,0,4.02,74,8
+AFS-00337,2024-09-01 10:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516539,119.183695,Lake,7.4,2.2,755,0.4,400.0,Moderate,1,4.12,88,9
+AFS-00338,2024-09-01 10:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517323,119.183093,Lake,7.7,1.6,3427,2.0,2000.0,Poor,2,4.07,81,10
+AFS-00339,2024-09-01 11:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516759,119.183105,Lake,7.1,2.0,13734,8.5,8500.0,Poor,2,4.18,97,11
+AFS-00340,2024-09-01 11:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516604,119.183427,Lake,7.6,3.4,19656,12.2,12200.0,Poor,2,4.07,81,12
+AFS-00341,2024-09-01 12:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516528,119.183293,Lake,7.5,1.3,7797,4.3,4300.0,Poor,2,4.12,88,13
+AFS-00342,2024-09-01 12:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517218,119.183431,Lake,7.7,1.8,216,0.1,100.0,Good,0,4.2,100,14
+AFS-00343,2024-09-01 13:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516736,119.183484,Lake,7.7,2.2,220,0.1,100.0,Good,0,4.07,81,15
+AFS-00344,2024-09-01 13:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516623,119.182799,Lake,7.4,1.8,16303,8.8,8800.0,Poor,2,4.01,72,16
+AFS-00345,2024-09-01 14:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516894,119.183155,Lake,7.3,1.6,134,0.1,100.0,Good,0,4.02,74,17
+AFS-00346,2024-09-01 14:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516332,119.182861,Lake,7.0,2.4,1444,0.7,700.0,Moderate,1,4.08,82,18
+AFS-00347,2024-09-01 15:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517014,119.183805,Lake,7.4,1.8,258,0.1,100.0,Good,0,3.93,61,19
+AFS-00348,2024-09-01 15:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517024,119.183288,Lake,7.5,2.8,2266,1.3,1300.0,Poor,2,3.89,55,20
+AFS-00349,2024-09-01 16:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516965,119.183496,Lake,7.4,4.4,497,0.3,300.0,Moderate,1,3.8,42,21
+AFS-00350,2024-09-01 16:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517143,119.183714,Lake,8.0,4.3,967,0.5,500.0,Moderate,1,3.73,32,22
+AFS-00351,2024-09-01 17:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516819,119.183448,Lake,7.5,14.6,6499,3.7,3700.0,Poor,2,3.67,24,23
+AFS-00352,2024-09-01 17:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516535,119.183099,Lake,7.9,6.6,31096,20.0,20000.0,Poor,2,3.71,30,24
+AFS-00353,2024-09-01 18:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517052,119.183463,Lake,8.0,2.0,28438,17.0,17000.0,Poor,2,3.68,25,25
+AFS-00354,2024-09-01 18:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516932,119.182445,Lake,7.5,4.8,247,0.1,100.0,Good,0,3.66,22,26
+AFS-00355,2024-09-01 19:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516178,119.183191,Lake,7.4,5.6,113,0.1,100.0,Moderate,1,3.72,31,27
+AFS-00356,2024-09-01 19:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516312,119.183648,Lake,7.6,2.8,22151,12.1,12100.0,Poor,2,3.6,14,28
+AFS-00357,2024-09-01 20:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516804,119.183286,Lake,7.0,6.5,131,0.1,100.0,Moderate,1,3.62,17,29
+AFS-00358,2024-09-01 20:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516723,119.182915,Lake,7.4,3.0,197,0.1,100.0,Good,0,3.66,22,30
+AFS-00359,2024-09-01 21:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516552,119.182833,Lake,7.4,3.1,184,0.1,100.0,Good,0,3.67,24,31
+AFS-00360,2024-09-01 21:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.51715,119.183555,Lake,7.7,3.3,1917,1.1,1100.0,Poor,2,3.6,14,32
+AFS-00361,2024-09-01 22:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516595,119.183204,Lake,6.8,1.5,64,0.0,0.0,Good,0,3.58,11,33
+AFS-00362,2024-09-01 22:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516815,119.183429,Lake,6.9,1.3,75,0.0,0.0,Good,0,3.7,28,34
+AFS-00363,2024-09-01 23:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516772,119.183222,Lake,6.6,1.0,85,0.0,0.0,Good,0,3.63,18,35
+AFS-00364,2024-09-01 23:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516679,119.183289,Lake,7.1,2.3,63,0.0,0.0,Good,0,3.57,9,36
+AFS-00365,2024-09-02 00:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516716,119.18352,Lake,6.8,0.9,54,0.0,0.0,Good,0,3.6,14,37
+AFS-00366,2024-09-02 00:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516724,119.182701,Lake,6.7,1.0,61,0.0,0.0,Good,0,3.56,8,38
+AFS-00367,2024-09-02 01:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516804,119.183599,Lake,6.7,1.4,65,0.0,0.0,Good,0,3.59,12,39
+AFS-00368,2024-09-02 01:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517327,119.183258,Lake,7.2,1.5,58,0.0,0.0,Good,0,3.5,0,40
+AFS-00369,2024-09-02 02:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516388,119.183484,Lake,6.9,1.0,55,0.0,0.0,Good,0,3.58,11,41
+AFS-00370,2024-09-02 02:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516513,119.183874,Lake,6.9,1.4,55,0.0,0.0,Good,0,3.5,0,42
+AFS-00371,2024-09-02 03:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516765,119.183561,Lake,7.0,1.6,63,0.0,0.0,Good,0,3.5,0,43
+AFS-00372,2024-09-02 03:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516745,119.183409,Lake,7.0,3.5,68,0.0,0.0,Good,0,3.52,2,44
+AFS-00373,2024-09-02 04:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516683,119.18336,Lake,6.9,10.8,13936,8.3,8300.0,Poor,2,3.6,14,45
+AFS-00374,2024-09-02 04:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517032,119.183656,Lake,7.5,14.8,31368,21.3,21300.0,Poor,2,3.53,4,46
+AFS-00375,2024-09-02 05:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516357,119.18379,Lake,7.1,4.7,32706,21.6,21600.0,Poor,2,3.5,0,47
+AFS-00376,2024-09-02 05:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516791,119.183074,Lake,7.7,5.9,31254,20.3,20300.0,Poor,2,3.5,0,48
+AFS-00377,2024-09-02 06:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516799,119.183396,Lake,8.0,1.7,24355,14.4,14400.0,Poor,2,3.7,28,49
+AFS-00378,2024-09-02 06:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517184,119.183436,Lake,7.2,8.9,6559,3.1,3100.0,Poor,2,3.72,31,50
+AFS-00379,2024-09-02 07:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516989,119.183657,Lake,7.1,9.2,5556,2.6,2600.0,Poor,2,3.8,42,51
+AFS-00380,2024-09-02 07:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516879,119.18351,Lake,7.5,5.7,34121,19.2,19200.0,Poor,2,3.75,35,52
+AFS-00381,2024-09-02 08:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517113,119.183255,Lake,6.4,6.8,4519,2.3,2300.0,Poor,2,3.9,57,53
+AFS-00382,2024-09-02 08:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516648,119.183305,Lake,6.7,12.6,11662,6.5,6500.0,Poor,2,3.92,60,54
+AFS-00383,2024-09-02 09:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516268,119.183778,Lake,7.1,5.3,2589,1.3,1300.0,Poor,2,3.95,64,55
+AFS-00384,2024-09-02 09:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516403,119.182654,Lake,7.4,6.5,25471,16.8,16800.0,Poor,2,3.96,65,56
+AFS-00385,2024-09-02 10:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516303,119.183793,Lake,7.0,8.1,4018,2.2,2200.0,Poor,2,4.03,75,57
+AFS-00386,2024-09-02 10:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516494,119.183976,Lake,7.6,4.1,5866,3.6,3600.0,Poor,2,4.11,87,58
+AFS-00387,2024-09-02 11:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516603,119.18255,Lake,7.3,3.8,4452,2.5,2500.0,Poor,2,4.15,92,59
+AFS-00388,2024-09-02 11:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516283,119.182806,Lake,7.7,3.6,21800,13.6,13600.0,Poor,2,4.2,100,60
+AFS-00389,2024-09-02 12:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517432,119.183715,Lake,7.9,3.5,25249,15.0,15000.0,Poor,2,4.15,92,61
+AFS-00390,2024-09-02 12:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516878,119.183556,Lake,7.5,19.6,1287,0.6,600.0,Moderate,1,4.12,88,62
+AFS-00391,2024-09-02 13:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516784,119.183331,Lake,7.3,4.4,359,0.2,200.0,Good,0,4.1,85,63
+AFS-00392,2024-09-02 13:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516474,119.183216,Lake,7.4,20.7,13754,7.3,7300.0,Poor,2,4.06,79,64
+AFS-00393,2024-09-02 14:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.51667,119.183003,Lake,7.0,3.9,506,0.2,200.0,Moderate,1,3.92,60,65
+AFS-00394,2024-09-02 14:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516754,119.183718,Lake,7.1,2.4,717,0.4,400.0,Moderate,1,3.95,64,66
+AFS-00395,2024-09-02 15:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516229,119.183003,Lake,7.3,2.4,330,0.2,200.0,Good,0,3.96,65,67
+AFS-00396,2024-09-02 15:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516405,119.183233,Lake,7.2,1.8,3925,2.3,2300.0,Poor,2,3.96,65,68
+AFS-00397,2024-09-02 16:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516409,119.183332,Lake,7.4,1.2,8717,6.2,6200.0,Poor,2,3.84,48,69
+AFS-00398,2024-09-02 16:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.51652,119.183396,Lake,7.5,2.1,21819,14.2,14200.0,Poor,2,3.75,35,70
+AFS-00399,2024-09-02 17:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516832,119.183294,Lake,7.3,2.1,15934,10.4,10400.0,Poor,2,3.62,17,71
+AFS-00400,2024-09-02 17:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516767,119.183709,Lake,7.3,2.0,12735,7.2,7200.0,Poor,2,3.73,32,72
+AFS-00401,2024-09-02 18:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516571,119.183337,Lake,7.8,3.1,33430,18.5,18500.0,Poor,2,3.69,27,73
+AFS-00402,2024-09-02 18:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516715,119.183312,Lake,7.4,3.9,3278,1.6,1600.0,Poor,2,3.71,30,74
+AFS-00403,2024-09-02 19:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516501,119.182879,Lake,7.4,1.6,9886,5.2,5200.0,Poor,2,3.62,17,75
+AFS-00404,2024-09-02 19:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516327,119.183092,Lake,7.6,4.4,31367,17.5,17500.0,Poor,2,3.75,35,76
+AFS-00405,2024-09-02 20:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516968,119.183212,Lake,7.2,4.0,1369,0.7,700.0,Moderate,1,3.6,14,77
+AFS-00406,2024-09-02 20:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516498,119.183384,Lake,7.5,2.6,28234,16.8,16800.0,Poor,2,3.7,28,78
+AFS-00407,2024-09-02 21:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517344,119.182944,Lake,7.1,2.6,6920,3.9,3900.0,Poor,2,3.58,11,79
+AFS-00408,2024-09-02 21:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.51689,119.183424,Lake,8.3,4.3,3980,2.2,2200.0,Poor,2,3.64,20,80
+AFS-00409,2024-09-02 22:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516661,119.183313,Lake,7.6,1.3,143,0.1,100.0,Good,0,3.59,12,81
+AFS-00410,2024-09-02 22:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516989,119.183963,Lake,7.5,1.7,188,0.1,100.0,Good,0,3.59,12,82
+AFS-00411,2024-09-02 23:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516289,119.183274,Lake,7.4,2.3,175,0.1,100.0,Good,0,3.55,7,83
+AFS-00412,2024-09-02 23:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516459,119.183792,Lake,7.6,2.4,128,0.1,100.0,Good,0,3.71,30,84
+AFS-00413,2024-09-03 00:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516534,119.183471,Lake,7.7,2.1,233,0.1,100.0,Good,0,3.64,20,85
+AFS-00414,2024-09-03 00:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516586,119.183239,Lake,7.5,4.8,69,0.0,0.0,Good,0,3.64,20,86
+AFS-00415,2024-09-03 01:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516396,119.183105,Lake,7.6,1.9,171,0.1,100.0,Good,0,3.51,1,87
+AFS-00416,2024-09-03 01:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.51671,119.183069,Lake,7.4,3.4,214,0.1,100.0,Good,0,3.5,0,88
+AFS-00417,2024-09-03 02:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516233,119.183399,Lake,7.5,3.7,72,0.0,0.0,Good,0,3.53,4,89
+AFS-00418,2024-09-03 02:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516102,119.183412,Lake,7.7,1.9,183,0.1,100.0,Good,0,3.56,8,90
+AFS-00419,2024-09-03 03:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516337,119.183802,Lake,7.4,1.9,109,0.1,100.0,Good,0,3.56,8,91
+AFS-00420,2024-09-03 03:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516488,119.183283,Lake,7.5,4.1,122,0.1,100.0,Good,0,3.52,2,92
+AFS-00421,2024-09-03 04:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516723,119.183462,Lake,7.4,1.6,200,0.1,100.0,Good,0,3.51,1,93
+AFS-00422,2024-09-03 04:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516751,119.182876,Lake,7.5,1.8,264,0.1,100.0,Good,0,3.5,0,94
+AFS-00423,2024-09-03 05:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516429,119.183079,Lake,7.4,3.2,180,0.1,100.0,Good,0,3.5,0,95
+AFS-00424,2024-09-03 05:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517027,119.183483,Lake,7.5,2.1,237,0.1,100.0,Good,0,3.52,2,96
+AFS-00425,2024-09-03 06:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516605,119.183664,Lake,7.5,1.9,340,0.2,200.0,Good,0,3.65,21,97
+AFS-00426,2024-09-03 06:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517396,119.183418,Lake,7.5,7.1,143,0.1,100.0,Moderate,1,3.71,30,98
+AFS-00427,2024-09-03 07:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516607,119.18334,Lake,7.3,4.3,193,0.1,100.0,Good,0,3.82,45,99
+AFS-00428,2024-09-03 07:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516912,119.183587,Lake,7.2,9.7,157,0.1,100.0,Moderate,1,3.81,44,100
+AFS-00429,2024-09-03 08:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516301,119.182749,Lake,7.2,6.9,133,0.1,100.0,Moderate,1,3.88,54,101
+AFS-00430,2024-09-03 08:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516369,119.182654,Lake,7.6,2.2,183,0.1,100.0,Good,0,3.94,62,102
+AFS-00431,2024-09-03 09:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517448,119.183298,Lake,7.6,2.5,147,0.1,100.0,Good,0,4.02,74,103
+AFS-00432,2024-09-03 09:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516725,119.18327,Lake,7.3,6.3,145,0.1,100.0,Moderate,1,4.04,77,104
+AFS-00433,2024-09-03 10:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516613,119.18338,Lake,7.3,1.0,126,0.1,100.0,Good,0,4.11,87,105
+AFS-00434,2024-09-03 10:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.5165,119.183598,Lake,7.5,1.1,159,0.1,100.0,Good,0,4.08,82,106
+AFS-00435,2024-09-03 11:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516473,119.183461,Lake,7.2,1.7,159,0.1,100.0,Good,0,4.09,84,107
+AFS-00436,2024-09-03 11:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516708,119.183297,Lake,7.4,2.3,168,0.1,100.0,Good,0,4.05,78,108
+AFS-00437,2024-09-03 12:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516842,119.183292,Lake,7.5,2.2,173,0.1,100.0,Good,0,4.15,92,109
+AFS-00438,2024-09-03 12:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517117,119.183467,Lake,7.5,6.9,134,0.1,100.0,Moderate,1,4.14,91,110
+AFS-00439,2024-09-03 13:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516306,119.18298,Lake,7.3,2.7,166,0.1,100.0,Good,0,4.06,79,111
+AFS-00440,2024-09-03 13:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516517,119.183244,Lake,7.3,14.7,156,0.1,100.0,Moderate,1,4.05,78,112
+AFS-00441,2024-09-03 14:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516859,119.183279,Lake,7.2,4.1,115,0.1,100.0,Good,0,4.01,72,113
+AFS-00442,2024-09-03 14:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516719,119.182707,Lake,7.5,2.1,134,0.1,100.0,Good,0,4.03,75,114
+AFS-00443,2024-09-03 15:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516657,119.182937,Lake,7.4,1.4,136,0.1,100.0,Good,0,3.87,52,115
+AFS-00444,2024-09-03 15:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517159,119.183666,Lake,7.3,1.4,141,0.1,100.0,Good,0,3.95,64,116
+AFS-00445,2024-09-03 16:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517147,119.183345,Lake,7.8,0.7,2067,1.3,1300.0,Poor,2,3.8,42,117
+AFS-00446,2024-09-03 16:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516516,119.183209,Lake,7.5,2.2,4430,2.7,2700.0,Poor,2,3.8,42,118
+AFS-00447,2024-09-03 17:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516751,119.183348,Lake,7.3,3.0,2654,1.5,1500.0,Poor,2,3.68,25,119
+AFS-00448,2024-09-03 17:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516831,119.183657,Lake,7.4,1.7,3062,1.6,1600.0,Poor,2,3.7,28,120
+AFS-00449,2024-09-03 18:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516255,119.182534,Lake,7.7,2.0,9849,5.1,5100.0,Poor,2,3.73,32,121
+AFS-00450,2024-09-03 18:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.51629,119.183233,Lake,7.5,5.6,723,0.3,300.0,Moderate,1,3.73,32,122
+AFS-00451,2024-09-03 19:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516159,119.183462,Lake,7.2,3.6,4357,2.2,2200.0,Poor,2,3.6,14,123
+AFS-00452,2024-09-03 19:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516527,119.182523,Lake,7.8,28.2,181,0.1,100.0,Poor,2,3.7,28,124
+AFS-00453,2024-09-03 20:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516818,119.182856,Lake,7.3,5.6,85,0.0,0.0,Moderate,1,3.61,15,125
+AFS-00454,2024-09-03 20:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516695,119.183474,Lake,7.5,2.8,580,0.3,300.0,Moderate,1,3.65,21,126
+AFS-00455,2024-09-03 21:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516408,119.183659,Lake,7.4,2.1,5209,2.8,2800.0,Poor,2,3.63,18,127
+AFS-00456,2024-09-03 21:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516692,119.18302,Lake,7.6,2.6,680,0.4,400.0,Moderate,1,3.61,15,128
+AFS-00457,2024-09-03 22:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516435,119.183248,Lake,7.6,0.6,200,0.1,100.0,Good,0,3.58,11,129
+AFS-00458,2024-09-03 22:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516288,119.182816,Lake,7.5,1.9,176,0.1,100.0,Good,0,3.69,27,130
+AFS-00459,2024-09-03 23:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516637,119.183099,Lake,7.4,1.6,163,0.1,100.0,Good,0,3.65,21,131
+AFS-00460,2024-09-03 23:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516518,119.183848,Lake,7.6,2.5,150,0.1,100.0,Good,0,3.63,18,132
+AFS-00461,2024-09-04 00:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516554,119.183947,Lake,7.6,8.0,232,0.1,100.0,Moderate,1,3.59,12,133
+AFS-00462,2024-09-04 00:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516923,119.18339,Lake,7.6,6.0,125,0.1,100.0,Moderate,1,3.53,4,134
+AFS-00463,2024-09-04 01:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517168,119.18331,Lake,7.3,2.6,162,0.1,100.0,Good,0,3.61,15,135
+AFS-00464,2024-09-04 01:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516838,119.183097,Lake,8.1,42.9,128,0.1,100.0,Poor,2,3.5,0,136
+AFS-00465,2024-09-04 02:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516741,119.18319,Lake,7.3,7.4,111,0.1,100.0,Moderate,1,3.62,17,137
+AFS-00466,2024-09-04 02:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516296,119.183009,Lake,7.5,24.1,177,0.1,100.0,Moderate,1,3.53,4,138
+AFS-00467,2024-09-04 03:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516503,119.182986,Lake,7.5,2.3,165,0.1,100.0,Good,0,3.56,8,139
+AFS-00468,2024-09-04 03:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517056,119.183516,Lake,9.5,3.1,189,0.1,100.0,Poor,2,3.53,4,140
+AFS-00469,2024-09-04 04:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516473,119.182873,Lake,7.6,3.4,175,0.1,100.0,Good,0,3.53,4,141
+AFS-00470,2024-09-04 04:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516603,119.183225,Lake,8.2,3.7,193,0.1,100.0,Good,0,3.56,8,142
+AFS-00471,2024-09-04 05:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516867,119.183437,Lake,7.9,3.0,219,0.1,100.0,Good,0,3.53,4,143
+AFS-00472,2024-09-04 05:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516507,119.183578,Lake,8.7,4.0,234,0.1,100.0,Moderate,1,3.57,9,144
+AFS-00473,2024-09-04 06:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516781,119.183759,Lake,9.0,3.4,240,0.1,100.0,Moderate,1,3.7,28,145
+AFS-00474,2024-09-04 06:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516861,119.183622,Lake,8.4,5.4,204,0.1,100.0,Moderate,1,3.73,32,146
+AFS-00475,2024-09-04 07:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516448,119.182987,Lake,7.4,8.6,133,0.1,100.0,Moderate,1,3.79,41,147
+AFS-00476,2024-09-04 07:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517317,119.182969,Lake,7.2,170.1,84,0.0,0.0,Poor,2,3.71,30,148
+AFS-00477,2024-09-04 08:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516617,119.183392,Lake,8.1,3.8,121,0.1,100.0,Good,0,3.91,58,149
+AFS-00478,2024-09-04 08:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516958,119.183125,Lake,7.5,3.2,95,0.0,0.0,Good,0,3.96,65,150
+AFS-00479,2024-09-04 09:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516785,119.183225,Lake,8.3,2.3,129,0.1,100.0,Good,0,3.99,70,151
+AFS-00480,2024-09-04 09:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516847,119.18352,Lake,8.0,2.7,145,0.1,100.0,Good,0,4.08,82,152
+AFS-00481,2024-09-04 10:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517052,119.183354,Lake,7.1,6.0,197,0.1,100.0,Moderate,1,4.1,85,153
+AFS-00482,2024-09-04 10:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.51682,119.183105,Lake,7.4,3.6,223,0.1,100.0,Good,0,4.0,71,154
+AFS-00483,2024-09-04 11:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516876,119.183671,Lake,7.4,7.2,246,0.1,100.0,Moderate,1,4.07,81,155
+AFS-00484,2024-09-04 11:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516793,119.183811,Lake,7.4,7.7,257,0.1,100.0,Moderate,1,4.1,85,156
+AFS-00485,2024-09-04 12:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.517481,119.18347,Lake,7.3,8.3,265,0.1,100.0,Moderate,1,4.11,87,157
+AFS-00486,2024-09-04 12:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516926,119.183414,Lake,7.6,7.3,248,0.1,100.0,Moderate,1,4.01,72,158
+AFS-00487,2024-09-04 13:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516902,119.183258,Lake,7.2,7.9,166,0.1,100.0,Moderate,1,4.13,89,159
+AFS-00488,2024-09-04 13:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516637,119.183045,Lake,7.3,134.7,100,0.0,0.0,Poor,2,4.0,71,160
+AFS-00489,2024-09-04 14:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516877,119.183801,Lake,7.1,6.6,177,0.1,100.0,Moderate,1,3.97,67,161
+AFS-00490,2024-09-04 14:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516341,119.183433,Lake,7.3,4.4,112,0.1,100.0,Good,0,4.02,74,162
+AFS-00491,2024-09-04 15:00:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516517,119.18326,Lake,7.4,3.6,164,0.1,100.0,Good,0,3.98,68,163
+AFS-00492,2024-09-04 15:30:00,HAS-03,Baima Lake,"Baimahe Reservoir Area, Huai'an, Jiangsu",33.516465,119.183494,Lake,7.1,62.1,298,0.2,200.0,Poor,2,3.92,60,164
+AFS-00493,2024-09-01 06:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078226,119.024434,Pond,7.4,27.7,244,0.2,200.0,Poor,2,3.69,27,1
+AFS-00494,2024-09-01 06:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078317,119.024588,Pond,7.1,18.8,412,0.2,200.0,Moderate,1,3.68,25,2
+AFS-00495,2024-09-01 07:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.07798,119.024767,Pond,7.3,68.5,285,0.1,100.0,Poor,2,3.9,57,3
+AFS-00496,2024-09-01 07:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077674,119.024172,Pond,7.4,51.1,315,0.2,200.0,Poor,2,3.86,51,4
+AFS-00497,2024-09-01 08:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078479,119.024534,Pond,7.2,18.4,572,0.3,300.0,Moderate,1,3.84,48,5
+AFS-00498,2024-09-01 08:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077931,119.024755,Pond,7.4,14.2,270,0.1,100.0,Moderate,1,4.04,77,6
+AFS-00499,2024-09-01 09:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078702,119.025318,Pond,7.1,19.0,258,0.1,100.0,Moderate,1,4.08,82,7
+AFS-00500,2024-09-01 09:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078407,119.024878,Pond,7.2,41.1,152,0.1,100.0,Poor,2,4.06,79,8
+AFS-00501,2024-09-01 10:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077935,119.024455,Pond,7.3,9.5,281,0.1,100.0,Moderate,1,4.1,85,9
+AFS-00502,2024-09-01 10:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078049,119.024564,Pond,7.2,12.0,145,0.1,100.0,Moderate,1,4.06,79,10
+AFS-00503,2024-09-01 11:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078387,119.024727,Pond,8.0,10.4,211,0.1,100.0,Moderate,1,4.13,89,11
+AFS-00504,2024-09-01 11:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077757,119.024642,Pond,7.4,4.7,178,0.1,100.0,Good,0,4.17,95,12
+AFS-00505,2024-09-01 12:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.07754,119.024675,Pond,7.0,0.6,72,0.0,0.0,Good,0,4.06,79,13
+AFS-00506,2024-09-01 12:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078554,119.024889,Pond,7.4,0.8,71,0.0,0.0,Good,0,4.09,84,14
+AFS-00507,2024-09-01 13:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078656,119.025066,Pond,7.3,0.9,124,0.1,100.0,Good,0,4.01,72,15
+AFS-00508,2024-09-01 13:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078032,119.024412,Pond,6.7,1.5,2126,1.1,1100.0,Poor,2,4.09,84,16
+AFS-00509,2024-09-01 14:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078427,119.025265,Pond,7.2,1.0,181,0.1,100.0,Good,0,3.98,68,17
+AFS-00510,2024-09-01 14:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077953,119.024364,Pond,7.0,1.6,75,0.0,0.0,Good,0,4.08,82,18
+AFS-00511,2024-09-01 15:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077569,119.024797,Pond,7.1,1.5,64,0.0,0.0,Good,0,3.92,60,19
+AFS-00512,2024-09-01 15:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.07796,119.024222,Pond,7.4,1.6,115,0.1,100.0,Good,0,3.91,58,20
+AFS-00513,2024-09-01 16:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.07794,119.024349,Pond,6.9,1.5,61,0.0,0.0,Good,0,3.84,48,21
+AFS-00514,2024-09-01 16:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078092,119.025232,Pond,7.3,1.7,72,0.0,0.0,Good,0,3.67,24,22
+AFS-00515,2024-09-01 17:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077963,119.024519,Pond,7.3,1.3,58,0.0,0.0,Good,0,3.78,39,23
+AFS-00516,2024-09-01 17:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.0778,119.024791,Pond,7.3,2.9,70,0.0,0.0,Good,0,3.72,31,24
+AFS-00517,2024-09-01 18:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078468,119.02467,Pond,7.1,0.4,69,0.0,0.0,Good,0,3.72,31,25
+AFS-00518,2024-09-01 18:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077837,119.024452,Pond,7.7,0.6,87,0.1,100.0,Good,0,3.67,24,26
+AFS-00519,2024-09-01 19:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.07821,119.024974,Pond,7.3,0.6,105,0.1,100.0,Good,0,3.65,21,27
+AFS-00520,2024-09-01 19:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078548,119.024619,Pond,7.3,3.0,136,0.1,100.0,Good,0,3.62,17,28
+AFS-00521,2024-09-01 20:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077876,119.023973,Pond,7.4,1.2,148,0.1,100.0,Good,0,3.64,20,29
+AFS-00522,2024-09-01 20:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078321,119.024616,Pond,7.3,1.4,108,0.1,100.0,Good,0,3.68,25,30
+AFS-00523,2024-09-01 21:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078255,119.024231,Pond,7.0,4.7,78,0.0,0.0,Good,0,3.62,17,31
+AFS-00524,2024-09-01 21:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078338,119.024324,Pond,7.4,1.6,113,0.1,100.0,Good,0,3.59,12,32
+AFS-00525,2024-09-01 22:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077693,119.02484,Pond,7.1,1.7,70,0.0,0.0,Good,0,3.61,15,33
+AFS-00526,2024-09-01 22:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077615,119.025049,Pond,7.5,1.8,76,0.0,0.0,Good,0,3.6,14,34
+AFS-00527,2024-09-01 23:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077857,119.02476,Pond,7.3,1.4,66,0.0,0.0,Good,0,3.54,5,35
+AFS-00528,2024-09-01 23:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077795,119.024719,Pond,7.4,2.2,83,0.0,0.0,Good,0,3.64,20,36
+AFS-00529,2024-09-02 00:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078308,119.024753,Pond,7.5,4.9,144,0.1,100.0,Good,0,3.58,11,37
+AFS-00530,2024-09-02 00:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077852,119.024726,Pond,8.1,3.0,159,0.1,100.0,Good,0,3.54,5,38
+AFS-00531,2024-09-02 01:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077224,119.024831,Pond,7.9,4.7,186,0.1,100.0,Good,0,3.5,0,39
+AFS-00532,2024-09-02 01:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077391,119.024397,Pond,8.0,3.6,151,0.1,100.0,Good,0,3.59,12,40
+AFS-00533,2024-09-02 02:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078717,119.024706,Pond,7.9,4.1,137,0.1,100.0,Good,0,3.55,7,41
+AFS-00534,2024-09-02 02:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078045,119.025112,Pond,7.7,5.9,112,0.1,100.0,Moderate,1,3.5,0,42
+AFS-00535,2024-09-02 03:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.07786,119.024555,Pond,7.8,1.1,77,0.0,0.0,Good,0,3.5,0,43
+AFS-00536,2024-09-02 03:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078137,119.025187,Pond,7.9,1.8,94,0.0,0.0,Good,0,3.5,0,44
+AFS-00537,2024-09-02 04:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078024,119.024612,Pond,7.3,1.6,55,0.0,0.0,Good,0,3.5,0,45
+AFS-00538,2024-09-02 04:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078365,119.024677,Pond,7.4,1.4,83,0.0,0.0,Good,0,3.5,0,46
+AFS-00539,2024-09-02 05:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.079058,119.02479,Pond,7.4,2.9,73,0.0,0.0,Good,0,3.5,0,47
+AFS-00540,2024-09-02 05:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077972,119.025045,Pond,8.0,2.5,90,0.0,0.0,Good,0,3.5,0,48
+AFS-00541,2024-09-02 06:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077669,119.024976,Pond,7.5,17.4,2685,1.6,1600.0,Poor,2,3.71,30,49
+AFS-00542,2024-09-02 06:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078662,119.025024,Pond,7.5,7.4,3116,1.8,1800.0,Poor,2,3.67,24,50
+AFS-00543,2024-09-02 07:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078484,119.02472,Pond,7.5,8.4,2846,1.6,1600.0,Poor,2,3.79,41,51
+AFS-00544,2024-09-02 07:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078245,119.024446,Pond,7.6,63.3,3074,1.6,1600.0,Poor,2,3.86,51,52
+AFS-00545,2024-09-02 08:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078409,119.0246,Pond,7.7,35.5,767,0.4,400.0,Poor,2,3.88,54,53
+AFS-00546,2024-09-02 08:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077813,119.024827,Pond,7.7,6.9,2425,1.1,1100.0,Poor,2,3.9,57,54
+AFS-00547,2024-09-02 09:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.07778,119.024707,Pond,7.6,3.7,2623,1.2,1200.0,Poor,2,4.11,87,55
+AFS-00548,2024-09-02 09:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078076,119.024836,Pond,7.5,25.3,3164,1.5,1500.0,Poor,2,4.07,81,56
+AFS-00549,2024-09-02 10:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078228,119.024644,Pond,7.4,8.8,3288,1.6,1600.0,Poor,2,4.01,72,57
+AFS-00550,2024-09-02 10:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078456,119.025477,Pond,7.4,6.8,3167,1.6,1600.0,Poor,2,4.11,87,58
+AFS-00551,2024-09-02 11:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078198,119.024758,Pond,7.4,8.1,2926,1.5,1500.0,Poor,2,4.12,88,59
+AFS-00552,2024-09-02 11:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078202,119.024611,Pond,7.3,14.9,2832,1.5,1500.0,Poor,2,4.08,82,60
+AFS-00553,2024-09-02 12:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078495,119.024398,Pond,7.6,6.1,319,0.2,200.0,Moderate,1,4.1,85,61
+AFS-00554,2024-09-02 12:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078495,119.024665,Pond,7.5,5.2,292,0.2,200.0,Moderate,1,4.15,92,62
+AFS-00555,2024-09-02 13:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077918,119.025089,Pond,7.7,12.9,339,0.2,200.0,Moderate,1,3.96,65,63
+AFS-00556,2024-09-02 13:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.0778,119.024549,Pond,9.2,45.5,389,0.2,200.0,Poor,2,4.06,79,64
+AFS-00557,2024-09-02 14:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078264,119.024628,Pond,9.9,64.7,248,0.1,100.0,Poor,2,4.04,77,65
+AFS-00558,2024-09-02 14:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077982,119.024423,Pond,7.6,16.6,204,0.1,100.0,Moderate,1,3.98,68,66
+AFS-00559,2024-09-02 15:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078003,119.025065,Pond,7.7,16.2,221,0.1,100.0,Moderate,1,4.0,71,67
+AFS-00560,2024-09-02 15:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078399,119.024571,Pond,9.5,17.5,257,0.1,100.0,Poor,2,3.99,70,68
+AFS-00561,2024-09-02 16:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078093,119.024429,Pond,7.6,5.8,190,0.1,100.0,Moderate,1,3.83,47,69
+AFS-00562,2024-09-02 16:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077746,119.025056,Pond,9.6,7.9,173,0.1,100.0,Poor,2,3.83,47,70
+AFS-00563,2024-09-02 17:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.07816,119.024785,Pond,10.6,9.5,286,0.1,100.0,Poor,2,3.68,25,71
+AFS-00564,2024-09-02 17:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078276,119.024558,Pond,8.6,14.3,313,0.2,200.0,Moderate,1,3.69,27,72
+AFS-00565,2024-09-02 18:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077696,119.024738,Pond,7.9,2.7,35980,25.8,25800.0,Poor,2,3.72,31,73
+AFS-00566,2024-09-02 18:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.0778,119.024497,Pond,8.1,1.7,29744,21.2,21200.0,Poor,2,3.78,39,74
+AFS-00567,2024-09-02 19:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078154,119.024805,Pond,7.9,2.1,36502,25.8,25800.0,Poor,2,3.69,27,75
+AFS-00568,2024-09-02 19:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.07829,119.025033,Pond,7.7,2.0,29465,18.6,18600.0,Poor,2,3.68,25,76
+AFS-00569,2024-09-02 20:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078028,119.024902,Pond,7.9,5.7,24152,14.8,14800.0,Poor,2,3.66,22,77
+AFS-00570,2024-09-02 20:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.07806,119.024408,Pond,7.8,3.2,14469,7.8,7800.0,Poor,2,3.73,32,78
+AFS-00571,2024-09-02 21:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078064,119.024048,Pond,7.5,1.3,16754,8.9,8900.0,Poor,2,3.68,25,79
+AFS-00572,2024-09-02 21:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077939,119.024673,Pond,7.5,2.6,23928,13.3,13300.0,Poor,2,3.66,22,80
+AFS-00573,2024-09-02 22:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078157,119.024913,Pond,7.5,2.2,16613,9.1,9100.0,Poor,2,3.62,17,81
+AFS-00574,2024-09-02 22:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078254,119.024622,Pond,7.6,3.3,18575,10.6,10600.0,Poor,2,3.58,11,82
+AFS-00575,2024-09-02 23:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078285,119.024419,Pond,7.5,3.4,34468,20.6,20600.0,Poor,2,3.62,17,83
+AFS-00576,2024-09-02 23:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077939,119.024942,Pond,7.3,2.5,37002,23.6,23600.0,Poor,2,3.63,18,84
+AFS-00577,2024-09-03 00:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078651,119.024633,Pond,7.6,2.7,29970,21.2,21200.0,Poor,2,3.58,11,85
+AFS-00578,2024-09-03 00:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078094,119.024609,Pond,8.0,3.8,31180,22.3,22300.0,Poor,2,3.54,5,86
+AFS-00579,2024-09-03 01:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077615,119.024384,Pond,7.9,2.5,33882,23.8,23800.0,Poor,2,3.58,11,87
+AFS-00580,2024-09-03 01:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078385,119.025213,Pond,7.6,2.0,22521,14.0,14000.0,Poor,2,3.5,0,88
+AFS-00581,2024-09-03 02:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078049,119.024721,Pond,7.7,5.8,13427,8.0,8000.0,Poor,2,3.51,1,89
+AFS-00582,2024-09-03 02:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077822,119.024772,Pond,7.9,4.0,12715,7.0,7000.0,Poor,2,3.58,11,90
+AFS-00583,2024-09-03 03:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.07825,119.024757,Pond,7.9,2.0,5548,2.7,2700.0,Poor,2,3.55,7,91
+AFS-00584,2024-09-03 03:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077289,119.024903,Pond,7.6,3.4,15531,8.5,8500.0,Poor,2,3.55,7,92
+AFS-00585,2024-09-03 04:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077551,119.024853,Pond,7.7,2.4,14215,7.6,7600.0,Poor,2,3.5,0,93
+AFS-00586,2024-09-03 04:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078059,119.024986,Pond,7.5,3.3,16862,9.7,9700.0,Poor,2,3.55,7,94
+AFS-00587,2024-09-03 05:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078494,119.025192,Pond,7.6,1.9,15652,9.0,9000.0,Poor,2,3.54,5,95
+AFS-00588,2024-09-03 05:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078123,119.024219,Pond,7.4,3.5,27174,17.2,17200.0,Poor,2,3.5,0,96
+AFS-00589,2024-09-03 06:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077847,119.025351,Pond,7.9,2.7,31632,22.5,22500.0,Poor,2,3.69,27,97
+AFS-00590,2024-09-03 06:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078137,119.024865,Pond,8.1,1.7,30011,21.4,21400.0,Poor,2,3.69,27,98
+AFS-00591,2024-09-03 07:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078609,119.024513,Pond,7.9,2.4,36302,25.5,25500.0,Poor,2,3.81,44,99
+AFS-00592,2024-09-03 07:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077877,119.024304,Pond,7.6,1.8,24976,15.7,15700.0,Poor,2,3.82,45,100
+AFS-00593,2024-09-03 08:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078089,119.024571,Pond,7.7,6.4,18746,11.5,11500.0,Poor,2,3.89,55,101
+AFS-00594,2024-09-03 08:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077678,119.024675,Pond,7.9,4.3,14730,8.0,8000.0,Poor,2,3.88,54,102
+AFS-00595,2024-09-03 09:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078328,119.024725,Pond,7.6,1.2,8888,4.5,4500.0,Poor,2,3.93,61,103
+AFS-00596,2024-09-03 09:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078007,119.024474,Pond,7.5,2.9,22140,12.2,12200.0,Poor,2,3.93,61,104
+AFS-00597,2024-09-03 10:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078502,119.024137,Pond,7.5,2.7,18236,10.1,10100.0,Poor,2,4.08,82,105
+AFS-00598,2024-09-03 10:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078052,119.024901,Pond,7.6,3.0,17761,10.1,10100.0,Poor,2,4.07,81,106
+AFS-00599,2024-09-03 11:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077874,119.024604,Pond,7.4,2.6,32317,19.3,19300.0,Poor,2,4.11,87,107
+AFS-00600,2024-09-03 11:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078423,119.024706,Pond,7.3,3.4,33167,21.2,21200.0,Poor,2,4.06,79,108
+AFS-00601,2024-09-03 12:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078082,119.024487,Pond,8.3,3.0,31535,22.4,22400.0,Poor,2,4.19,98,109
+AFS-00602,2024-09-03 12:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077559,119.024225,Pond,7.9,2.7,33351,24.1,24100.0,Poor,2,4.02,74,110
+AFS-00603,2024-09-03 13:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078253,119.024226,Pond,7.8,2.3,36938,26.2,26200.0,Poor,2,4.08,82,111
+AFS-00604,2024-09-03 13:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077955,119.024744,Pond,7.8,1.7,36838,23.7,23700.0,Poor,2,4.11,87,112
+AFS-00605,2024-09-03 14:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078369,119.024619,Pond,7.7,4.2,28921,18.3,18300.0,Poor,2,4.08,82,113
+AFS-00606,2024-09-03 14:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077454,119.024484,Pond,7.5,4.7,12177,6.7,6700.0,Poor,2,3.96,65,114
+AFS-00607,2024-09-03 15:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077804,119.024661,Pond,7.4,1.8,21364,11.8,11800.0,Poor,2,3.91,58,115
+AFS-00608,2024-09-03 15:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078033,119.024505,Pond,7.4,4.0,20673,11.5,11500.0,Poor,2,3.92,60,116
+AFS-00609,2024-09-03 16:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078233,119.024373,Pond,7.2,1.8,27090,15.9,15900.0,Poor,2,3.82,45,117
+AFS-00610,2024-09-03 16:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.07807,119.024706,Pond,7.4,1.7,30547,19.1,19100.0,Poor,2,3.88,54,118
+AFS-00611,2024-09-03 17:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.07817,119.024986,Pond,7.2,2.2,30895,19.0,19000.0,Poor,2,3.74,34,119
+AFS-00612,2024-09-03 17:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077916,119.024808,Pond,7.3,2.2,39505,25.9,25900.0,Poor,2,3.71,30,120
+AFS-00613,2024-09-03 18:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078133,119.02469,Pond,7.4,2.0,451,0.3,300.0,Moderate,1,3.62,17,121
+AFS-00614,2024-09-03 18:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078061,119.024135,Pond,7.2,1.9,577,0.3,300.0,Moderate,1,3.67,24,122
+AFS-00615,2024-09-03 19:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078128,119.024748,Pond,8.6,2.4,507,0.2,200.0,Moderate,1,3.63,18,123
+AFS-00616,2024-09-03 19:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.07848,119.02444,Pond,7.9,2.9,425,0.2,200.0,Good,0,3.61,15,124
+AFS-00617,2024-09-03 20:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078228,119.024506,Pond,8.1,3.3,425,0.2,200.0,Good,0,3.69,27,125
+AFS-00618,2024-09-03 20:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077742,119.024976,Pond,7.7,10.8,474,0.2,200.0,Moderate,1,3.73,32,126
+AFS-00619,2024-09-03 21:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077899,119.025118,Pond,8.5,1.3,629,0.3,300.0,Moderate,1,3.67,24,127
+AFS-00620,2024-09-03 21:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078187,119.024778,Pond,7.9,0.9,385,0.2,200.0,Good,0,3.61,15,128
+AFS-00621,2024-09-03 22:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078343,119.024938,Pond,8.0,1.8,100,0.0,0.0,Good,0,3.59,12,129
+AFS-00622,2024-09-03 22:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078491,119.024201,Pond,7.9,1.4,92,0.0,0.0,Good,0,3.51,1,130
+AFS-00623,2024-09-03 23:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078438,119.024373,Pond,7.6,18.9,110,0.1,100.0,Moderate,1,3.63,18,131
+AFS-00624,2024-09-03 23:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077768,119.024636,Pond,8.2,1.7,149,0.1,100.0,Good,0,3.56,8,132
+AFS-00625,2024-09-04 00:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078334,119.025093,Pond,7.5,0.6,94,0.1,100.0,Good,0,3.54,5,133
+AFS-00626,2024-09-04 00:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077931,119.024637,Pond,7.4,0.6,109,0.1,100.0,Good,0,3.63,18,134
+AFS-00627,2024-09-04 01:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077858,119.024989,Pond,7.4,0.8,118,0.1,100.0,Good,0,3.5,0,135
+AFS-00628,2024-09-04 01:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.07773,119.024522,Pond,7.4,0.7,132,0.1,100.0,Good,0,3.62,17,136
+AFS-00629,2024-09-04 02:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078184,119.024457,Pond,7.5,2.2,127,0.1,100.0,Good,0,3.52,2,137
+AFS-00630,2024-09-04 02:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077958,119.024696,Pond,7.4,5.2,103,0.1,100.0,Moderate,1,3.54,5,138
+AFS-00631,2024-09-04 03:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078102,119.024569,Pond,7.5,1.3,100,0.0,0.0,Good,0,3.53,4,139
+AFS-00632,2024-09-04 03:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078073,119.024589,Pond,7.4,1.7,103,0.0,0.0,Good,0,3.5,0,140
+AFS-00633,2024-09-04 04:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.07858,119.024868,Pond,7.6,1.4,76,0.0,0.0,Good,0,3.5,0,141
+AFS-00634,2024-09-04 04:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078309,119.0246,Pond,7.4,1.3,70,0.0,0.0,Good,0,3.5,0,142
+AFS-00635,2024-09-04 05:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078211,119.024668,Pond,7.3,5.9,90,0.0,0.0,Moderate,1,3.52,2,143
+AFS-00636,2024-09-04 05:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077629,119.024362,Pond,7.8,0.7,98,0.1,100.0,Good,0,3.5,0,144
+AFS-00637,2024-09-04 06:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078143,119.02522,Pond,7.6,2.4,174,0.1,100.0,Good,0,3.64,20,145
+AFS-00638,2024-09-04 06:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078291,119.02485,Pond,7.1,1.9,178,0.1,100.0,Good,0,3.81,44,146
+AFS-00639,2024-09-04 07:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077937,119.024464,Pond,7.5,4.6,206,0.1,100.0,Good,0,3.72,31,147
+AFS-00640,2024-09-04 07:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.07805,119.024558,Pond,7.5,4.0,226,0.1,100.0,Good,0,3.78,39,148
+AFS-00641,2024-09-04 08:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078324,119.024378,Pond,7.7,1.3,216,0.1,100.0,Good,0,3.82,45,149
+AFS-00642,2024-09-04 08:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078722,119.024424,Pond,7.7,4.7,182,0.1,100.0,Good,0,3.93,61,150
+AFS-00643,2024-09-04 09:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078014,119.02503,Pond,7.6,2.5,217,0.1,100.0,Good,0,3.88,54,151
+AFS-00644,2024-09-04 09:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077731,119.024849,Pond,7.5,3.7,214,0.1,100.0,Good,0,4.1,85,152
+AFS-00645,2024-09-04 10:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078068,119.025493,Pond,7.6,3.2,155,0.1,100.0,Good,0,4.04,77,153
+AFS-00646,2024-09-04 10:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078176,119.02484,Pond,7.5,2.2,125,0.1,100.0,Good,0,3.99,70,154
+AFS-00647,2024-09-04 11:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078129,119.024792,Pond,7.4,9.9,154,0.1,100.0,Moderate,1,4.15,92,155
+AFS-00648,2024-09-04 11:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078181,119.024597,Pond,7.7,2.1,176,0.1,100.0,Good,0,4.08,82,156
+AFS-00649,2024-09-04 12:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077989,119.024813,Pond,7.6,0.6,55,0.0,0.0,Good,0,4.13,89,157
+AFS-00650,2024-09-04 12:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078438,119.024685,Pond,7.4,0.8,54,0.0,0.0,Good,0,4.09,84,158
+AFS-00651,2024-09-04 13:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078479,119.024428,Pond,7.5,1.0,75,0.0,0.0,Good,0,3.98,68,159
+AFS-00652,2024-09-04 13:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.077921,119.025112,Pond,7.4,1.4,84,0.0,0.0,Good,0,4.03,75,160
+AFS-00653,2024-09-04 14:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.079041,119.025017,Pond,7.7,1.1,97,0.0,0.0,Good,0,3.9,57,161
+AFS-00654,2024-09-04 14:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078084,119.024786,Pond,7.5,2.2,68,0.0,0.0,Good,0,4.01,72,162
+AFS-00655,2024-09-04 15:00:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078294,119.024867,Pond,7.5,1.1,61,0.0,0.0,Good,0,3.94,62,163
+AFS-00656,2024-09-04 15:30:00,HAS-04,Gucheng Lake,"Jinhu County, Huai'an, Jiangsu",33.078041,119.024655,Pond,7.4,1.3,67,0.0,0.0,Good,0,3.92,60,164
+AFS-00657,2024-09-01 06:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.55064,119.021878,Pond,7.5,0.9,46,0.0,0.0,Good,0,3.69,27,1
+AFS-00658,2024-09-01 06:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550497,119.021758,Pond,7.5,1.2,44,0.0,0.0,Good,0,3.55,7,2
+AFS-00659,2024-09-01 07:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550183,119.022037,Pond,7.1,1.5,57,0.0,0.0,Good,0,3.81,44,3
+AFS-00660,2024-09-01 07:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550068,119.021822,Pond,7.6,0.8,48,0.0,0.0,Good,0,3.86,51,4
+AFS-00661,2024-09-01 08:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549886,119.021512,Pond,9.4,1.9,1026,0.6,600.0,Poor,2,3.87,52,5
+AFS-00662,2024-09-01 08:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550586,119.021854,Pond,8.5,1.3,922,0.5,500.0,Moderate,1,3.96,65,6
+AFS-00663,2024-09-01 09:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550455,119.021508,Pond,8.4,1.1,748,0.4,400.0,Moderate,1,4.04,77,7
+AFS-00664,2024-09-01 09:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.55054,119.021926,Pond,9.8,2.5,2636,1.4,1400.0,Poor,2,4.02,74,8
+AFS-00665,2024-09-01 10:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550512,119.021805,Pond,8.2,1.5,748,0.4,400.0,Moderate,1,4.12,88,9
+AFS-00666,2024-09-01 10:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550292,119.021435,Pond,8.3,2.4,810,0.4,400.0,Moderate,1,4.12,88,10
+AFS-00667,2024-09-01 11:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550077,119.021497,Pond,8.0,1.6,2264,1.1,1100.0,Poor,2,4.09,84,11
+AFS-00668,2024-09-01 11:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550062,119.021608,Pond,8.7,1.4,1374,0.6,600.0,Moderate,1,4.09,84,12
+AFS-00669,2024-09-01 12:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550364,119.0217,Pond,7.8,0.7,449,0.2,200.0,Good,0,4.0,71,13
+AFS-00670,2024-09-01 12:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550498,119.021981,Pond,7.7,0.5,351,0.2,200.0,Good,0,4.06,79,14
+AFS-00671,2024-09-01 13:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550071,119.021469,Pond,8.0,3.0,288,0.1,100.0,Good,0,3.98,68,15
+AFS-00672,2024-09-01 13:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550549,119.021642,Pond,8.0,1.1,829,0.5,500.0,Moderate,1,4.02,74,16
+AFS-00673,2024-09-01 14:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549699,119.021891,Pond,7.6,1.5,81,0.0,0.0,Good,0,3.99,70,17
+AFS-00674,2024-09-01 14:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550318,119.021783,Pond,7.3,1.5,87,0.1,100.0,Good,0,3.94,62,18
+AFS-00675,2024-09-01 15:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549907,119.020794,Pond,7.5,1.1,90,0.1,100.0,Good,0,3.98,68,19
+AFS-00676,2024-09-01 15:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.55084,119.022072,Pond,7.7,1.9,110,0.1,100.0,Good,0,3.93,61,20
+AFS-00677,2024-09-01 16:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550153,119.021942,Pond,7.7,2.0,125,0.1,100.0,Good,0,3.82,45,21
+AFS-00678,2024-09-01 16:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550443,119.021852,Pond,7.7,4.5,112,0.1,100.0,Good,0,3.76,37,22
+AFS-00679,2024-09-01 17:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.551128,119.021818,Pond,7.7,2.7,111,0.1,100.0,Good,0,3.75,35,23
+AFS-00680,2024-09-01 17:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550292,119.021169,Pond,7.5,4.5,115,0.1,100.0,Good,0,3.67,24,24
+AFS-00681,2024-09-01 18:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550177,119.021543,Pond,7.6,3.8,89,0.0,0.0,Good,0,3.65,21,25
+AFS-00682,2024-09-01 18:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550053,119.022036,Pond,7.6,3.3,80,0.0,0.0,Good,0,3.69,27,26
+AFS-00683,2024-09-01 19:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550297,119.021602,Pond,7.4,10.0,117,0.1,100.0,Moderate,1,3.66,22,27
+AFS-00684,2024-09-01 19:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550548,119.02144,Pond,7.8,2.2,80,0.0,0.0,Good,0,3.67,24,28
+AFS-00685,2024-09-01 20:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550209,119.021296,Pond,7.3,2.9,77,0.0,0.0,Good,0,3.61,15,29
+AFS-00686,2024-09-01 20:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550157,119.021962,Pond,7.2,2.1,82,0.0,0.0,Good,0,3.6,14,30
+AFS-00687,2024-09-01 21:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550358,119.021955,Pond,7.4,1.7,82,0.0,0.0,Good,0,3.63,18,31
+AFS-00688,2024-09-01 21:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550417,119.021669,Pond,7.3,33.5,86,0.0,0.0,Poor,2,3.61,15,32
+AFS-00689,2024-09-01 22:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550125,119.020968,Pond,7.5,4.0,91,0.0,0.0,Good,0,3.61,15,33
+AFS-00690,2024-09-01 22:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550727,119.021978,Pond,7.4,7.6,93,0.0,0.0,Moderate,1,3.59,12,34
+AFS-00691,2024-09-01 23:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550671,119.021727,Pond,7.5,3.8,101,0.0,0.0,Good,0,3.63,18,35
+AFS-00692,2024-09-01 23:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550115,119.021605,Pond,7.2,4.4,100,0.0,0.0,Good,0,3.59,12,36
+AFS-00693,2024-09-02 00:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550661,119.021658,Pond,7.4,5.0,74,0.0,0.0,Moderate,1,3.59,12,37
+AFS-00694,2024-09-02 00:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.5503,119.02188,Pond,7.3,4.8,67,0.0,0.0,Good,0,3.54,5,38
+AFS-00695,2024-09-02 01:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549611,119.021535,Pond,7.2,7.1,90,0.0,0.0,Moderate,1,3.5,0,39
+AFS-00696,2024-09-02 01:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550148,119.021656,Pond,7.5,3.1,67,0.0,0.0,Good,0,3.5,0,40
+AFS-00697,2024-09-02 02:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550736,119.021798,Pond,7.4,0.7,79,0.0,0.0,Good,0,3.5,0,41
+AFS-00698,2024-09-02 02:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550487,119.021358,Pond,7.2,0.6,79,0.0,0.0,Good,0,3.54,5,42
+AFS-00699,2024-09-02 03:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550277,119.021901,Pond,7.4,1.5,89,0.1,100.0,Good,0,3.55,7,43
+AFS-00700,2024-09-02 03:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549834,119.021945,Pond,7.4,1.4,98,0.1,100.0,Good,0,3.5,0,44
+AFS-00701,2024-09-02 04:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550029,119.021439,Pond,7.6,1.5,102,0.1,100.0,Good,0,3.5,0,45
+AFS-00702,2024-09-02 04:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549943,119.022193,Pond,7.5,4.6,93,0.0,0.0,Good,0,3.54,5,46
+AFS-00703,2024-09-02 05:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550492,119.021601,Pond,7.5,1.6,83,0.0,0.0,Good,0,3.5,0,47
+AFS-00704,2024-09-02 05:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550137,119.021651,Pond,7.4,1.6,90,0.0,0.0,Good,0,3.5,0,48
+AFS-00705,2024-09-02 06:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549999,119.021922,Pond,7.5,1.4,71,0.0,0.0,Good,0,3.7,28,49
+AFS-00706,2024-09-02 06:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550231,119.021402,Pond,7.4,1.3,66,0.0,0.0,Good,0,3.67,24,50
+AFS-00707,2024-09-02 07:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550243,119.022424,Pond,7.4,5.7,92,0.0,0.0,Moderate,1,3.68,25,51
+AFS-00708,2024-09-02 07:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550294,119.021621,Pond,7.7,0.8,68,0.0,0.0,Good,0,3.85,50,52
+AFS-00709,2024-09-02 08:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550464,119.021346,Pond,7.2,1.8,23465,16.7,16700.0,Poor,2,3.92,60,53
+AFS-00710,2024-09-02 08:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550515,119.021915,Pond,7.1,3.1,19807,13.6,13600.0,Poor,2,3.97,67,54
+AFS-00711,2024-09-02 09:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550306,119.021902,Pond,7.4,1.8,24045,15.9,15900.0,Poor,2,4.02,74,55
+AFS-00712,2024-09-02 09:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550194,119.021528,Pond,7.5,3.1,27370,16.9,16900.0,Poor,2,4.03,75,56
+AFS-00713,2024-09-02 10:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550765,119.021328,Pond,7.3,1.9,21552,13.0,13000.0,Poor,2,4.07,81,57
+AFS-00714,2024-09-02 10:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550349,119.021715,Pond,7.2,4.2,21644,12.5,12500.0,Poor,2,3.99,70,58
+AFS-00715,2024-09-02 11:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550373,119.021633,Pond,7.2,2.9,27276,14.8,14800.0,Poor,2,4.1,85,59
+AFS-00716,2024-09-02 11:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.54982,119.021451,Pond,7.4,1.4,28945,16.2,16200.0,Poor,2,4.17,95,60
+AFS-00717,2024-09-02 12:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549807,119.021647,Pond,7.2,1.5,4601,2.3,2300.0,Poor,2,4.09,84,61
+AFS-00718,2024-09-02 12:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550306,119.021769,Pond,7.3,1.4,1840,0.9,900.0,Poor,2,4.18,97,62
+AFS-00719,2024-09-02 13:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550115,119.021587,Pond,7.4,10.9,3897,2.1,2100.0,Poor,2,4.0,71,63
+AFS-00720,2024-09-02 13:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550684,119.021867,Pond,7.3,2.4,14231,9.1,9100.0,Poor,2,4.05,78,64
+AFS-00721,2024-09-02 14:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550374,119.021849,Pond,9.9,2.3,192,0.1,100.0,Poor,2,3.95,64,65
+AFS-00722,2024-09-02 14:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550774,119.021395,Pond,7.6,2.0,175,0.1,100.0,Good,0,4.06,79,66
+AFS-00723,2024-09-02 15:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549923,119.02163,Pond,10.2,9.3,234,0.1,100.0,Poor,2,3.88,54,67
+AFS-00724,2024-09-02 15:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550596,119.021677,Pond,9.8,6.3,223,0.1,100.0,Poor,2,3.94,62,68
+AFS-00725,2024-09-02 16:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550346,119.021449,Pond,9.5,26.7,504,0.2,200.0,Poor,2,3.8,42,69
+AFS-00726,2024-09-02 16:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549818,119.021755,Pond,8.2,4.2,248,0.1,100.0,Good,0,3.92,60,70
+AFS-00727,2024-09-02 17:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550302,119.021643,Pond,8.2,2.1,115,0.1,100.0,Good,0,3.8,42,71
+AFS-00728,2024-09-02 17:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550246,119.022112,Pond,8.1,15.0,102,0.0,0.0,Moderate,1,3.68,25,72
+AFS-00729,2024-09-02 18:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.55076,119.021273,Pond,8.0,5.1,178,0.1,100.0,Moderate,1,3.57,9,73
+AFS-00730,2024-09-02 18:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550171,119.021877,Pond,7.3,1.8,123,0.1,100.0,Good,0,3.67,24,74
+AFS-00731,2024-09-02 19:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550439,119.022307,Pond,7.8,22.5,80,0.0,0.0,Moderate,1,3.58,11,75
+AFS-00732,2024-09-02 19:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550357,119.021501,Pond,7.9,2.5,124,0.1,100.0,Good,0,3.59,12,76
+AFS-00733,2024-09-02 20:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550306,119.021508,Pond,6.7,1.0,2294,1.4,1400.0,Poor,2,3.66,22,77
+AFS-00734,2024-09-02 20:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550841,119.021643,Pond,6.8,0.8,4569,2.7,2700.0,Poor,2,3.66,22,78
+AFS-00735,2024-09-02 21:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549912,119.021413,Pond,7.1,1.6,7374,4.6,4600.0,Poor,2,3.66,22,79
+AFS-00736,2024-09-02 21:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550745,119.021807,Pond,6.8,2.0,14075,8.5,8500.0,Poor,2,3.64,20,80
+AFS-00737,2024-09-02 22:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.5503,119.021325,Pond,6.9,1.2,29800,19.0,19000.0,Poor,2,3.58,11,81
+AFS-00738,2024-09-02 22:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550565,119.021564,Pond,7.2,0.7,18490,10.3,10300.0,Poor,2,3.63,18,82
+AFS-00739,2024-09-02 23:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.55038,119.021569,Pond,6.7,1.6,13468,7.2,7200.0,Poor,2,3.56,8,83
+AFS-00740,2024-09-02 23:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.55093,119.021626,Pond,6.9,1.8,8530,4.5,4500.0,Poor,2,3.58,11,84
+AFS-00741,2024-09-03 00:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550106,119.021923,Pond,6.8,2.6,4882,2.5,2500.0,Poor,2,3.54,5,85
+AFS-00742,2024-09-03 00:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550105,119.022096,Pond,7.2,1.1,3310,1.7,1700.0,Poor,2,3.55,7,86
+AFS-00743,2024-09-03 01:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.55012,119.02114,Pond,7.2,0.6,1401,0.8,800.0,Moderate,1,3.61,15,87
+AFS-00744,2024-09-03 01:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550095,119.021937,Pond,7.1,2.3,1328,0.8,800.0,Moderate,1,3.59,12,88
+AFS-00745,2024-09-03 02:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550568,119.021337,Pond,9.6,9.3,6207,3.5,3500.0,Poor,2,3.5,0,89
+AFS-00746,2024-09-03 02:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550304,119.021414,Pond,9.0,1.3,4717,2.7,2700.0,Poor,2,3.56,8,90
+AFS-00747,2024-09-03 03:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550506,119.021732,Pond,8.9,3.9,5550,3.0,3000.0,Poor,2,3.5,0,91
+AFS-00748,2024-09-03 03:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550893,119.021231,Pond,9.1,3.6,3243,1.7,1700.0,Poor,2,3.53,4,92
+AFS-00749,2024-09-03 04:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550331,119.02143,Pond,8.9,2.2,7362,3.4,3400.0,Poor,2,3.56,8,93
+AFS-00750,2024-09-03 04:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550243,119.021976,Pond,9.3,2.4,1124,0.5,500.0,Poor,2,3.5,0,94
+AFS-00751,2024-09-03 05:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550753,119.021265,Pond,9.8,1.0,2536,1.1,1100.0,Poor,2,3.5,0,95
+AFS-00752,2024-09-03 05:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549924,119.021809,Pond,9.1,1.9,4940,2.3,2300.0,Poor,2,3.5,0,96
+AFS-00753,2024-09-03 06:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550174,119.020919,Pond,8.0,2.1,994,0.5,500.0,Moderate,1,3.74,34,97
+AFS-00754,2024-09-03 06:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550431,119.021821,Pond,9.7,5.9,1273,0.6,600.0,Poor,2,3.71,30,98
+AFS-00755,2024-09-03 07:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549979,119.021904,Pond,9.0,1.6,1966,0.9,900.0,Poor,2,3.87,52,99
+AFS-00756,2024-09-03 07:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549766,119.021796,Pond,8.7,2.7,3926,2.3,2300.0,Poor,2,3.87,52,100
+AFS-00757,2024-09-03 08:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550276,119.021804,Pond,7.8,4.1,19321,12.5,12500.0,Poor,2,3.89,55,101
+AFS-00758,2024-09-03 08:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550097,119.02171,Pond,7.7,2.4,16708,10.6,10600.0,Poor,2,3.89,55,102
+AFS-00759,2024-09-03 09:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549974,119.021904,Pond,7.6,2.1,29785,19.7,19700.0,Poor,2,3.95,64,103
+AFS-00760,2024-09-03 09:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.5505,119.021839,Pond,7.8,25.6,16651,9.6,9600.0,Poor,2,3.94,62,104
+AFS-00761,2024-09-03 10:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550097,119.022058,Pond,7.6,4.4,20392,11.6,11600.0,Poor,2,3.98,68,105
+AFS-00762,2024-09-03 10:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550161,119.021839,Pond,7.9,2.7,24952,13.5,13500.0,Poor,2,4.01,72,106
+AFS-00763,2024-09-03 11:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550225,119.021521,Pond,7.8,1.5,35046,19.3,19300.0,Poor,2,4.14,91,107
+AFS-00764,2024-09-03 11:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550822,119.021994,Pond,7.7,1.7,42004,23.7,23700.0,Poor,2,4.17,95,108
+AFS-00765,2024-09-03 12:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550058,119.021451,Pond,7.4,3.4,4055,2.0,2000.0,Poor,2,4.1,85,109
+AFS-00766,2024-09-03 12:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550426,119.02212,Pond,8.1,2.1,25445,14.2,14200.0,Poor,2,4.12,88,110
+AFS-00767,2024-09-03 13:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549849,119.022016,Pond,7.9,3.3,25654,14.8,14800.0,Poor,2,4.1,85,111
+AFS-00768,2024-09-03 13:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550185,119.021775,Pond,7.5,1.9,28005,18.1,18100.0,Poor,2,4.01,72,112
+AFS-00769,2024-09-03 14:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.551233,119.021882,Pond,7.4,1.7,913,0.5,500.0,Moderate,1,4.1,85,113
+AFS-00770,2024-09-03 14:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.55046,119.021966,Pond,7.6,1.8,1671,0.9,900.0,Poor,2,3.99,70,114
+AFS-00771,2024-09-03 15:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550839,119.021769,Pond,7.8,11.1,1841,1.0,1000.0,Poor,2,3.9,57,115
+AFS-00772,2024-09-03 15:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.5505,119.021826,Pond,7.8,8.1,399,0.2,200.0,Moderate,1,3.94,62,116
+AFS-00773,2024-09-03 16:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550115,119.021533,Pond,8.0,5.2,2909,1.4,1400.0,Poor,2,3.85,50,117
+AFS-00774,2024-09-03 16:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550432,119.021934,Pond,7.4,2.8,1267,0.6,600.0,Moderate,1,3.76,37,118
+AFS-00775,2024-09-03 17:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550802,119.021698,Pond,8.5,3.0,4222,2.0,2000.0,Poor,2,3.72,31,119
+AFS-00776,2024-09-03 17:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549972,119.021584,Pond,7.4,2.4,960,0.4,400.0,Moderate,1,3.73,32,120
+AFS-00777,2024-09-03 18:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550555,119.021612,Pond,7.6,4.2,432,0.2,200.0,Good,0,3.71,30,121
+AFS-00778,2024-09-03 18:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549845,119.021593,Pond,7.8,3.0,447,0.2,200.0,Good,0,3.68,25,122
+AFS-00779,2024-09-03 19:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550473,119.02185,Pond,7.9,2.0,819,0.4,400.0,Moderate,1,3.7,28,123
+AFS-00780,2024-09-03 19:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550302,119.021502,Pond,7.4,4.0,1317,0.7,700.0,Moderate,1,3.66,22,124
+AFS-00781,2024-09-03 20:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550426,119.021848,Pond,7.9,1.2,231,0.1,100.0,Good,0,3.67,24,125
+AFS-00782,2024-09-03 20:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549654,119.022029,Pond,7.9,1.1,8514,5.2,5200.0,Poor,2,3.61,15,126
+AFS-00783,2024-09-03 21:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550041,119.021908,Pond,8.1,1.1,3444,2.0,2000.0,Poor,2,3.6,14,127
+AFS-00784,2024-09-03 21:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550618,119.021885,Pond,8.3,7.4,397,0.2,200.0,Moderate,1,3.6,14,128
+AFS-00785,2024-09-03 22:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.54989,119.022064,Pond,8.1,7.8,4238,2.0,2000.0,Poor,2,3.63,18,129
+AFS-00786,2024-09-03 22:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550189,119.021743,Pond,8.8,1.7,254,0.1,100.0,Moderate,1,3.61,15,130
+AFS-00787,2024-09-03 23:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550423,119.021391,Pond,9.2,4.0,2155,0.9,900.0,Poor,2,3.5,0,131
+AFS-00788,2024-09-03 23:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549843,119.022034,Pond,7.7,1.3,7286,3.7,3700.0,Poor,2,3.51,1,132
+AFS-00789,2024-09-04 00:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.55076,119.021539,Pond,7.7,5.7,844,0.4,400.0,Moderate,1,3.53,4,133
+AFS-00790,2024-09-04 00:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549965,119.022071,Pond,7.6,1.3,370,0.2,200.0,Good,0,3.5,0,134
+AFS-00791,2024-09-04 01:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550136,119.021748,Pond,7.5,1.4,7683,4.3,4300.0,Poor,2,3.53,4,135
+AFS-00792,2024-09-04 01:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550635,119.022135,Pond,7.5,17.0,1937,1.1,1100.0,Poor,2,3.57,9,136
+AFS-00793,2024-09-04 02:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549902,119.021576,Pond,7.4,1.5,698,0.4,400.0,Moderate,1,3.5,0,137
+AFS-00794,2024-09-04 02:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550011,119.021413,Pond,7.5,6.2,1470,0.8,800.0,Moderate,1,3.53,4,138
+AFS-00795,2024-09-04 03:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550285,119.02171,Pond,7.7,3.5,1307,0.7,700.0,Moderate,1,3.52,2,139
+AFS-00796,2024-09-04 03:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550231,119.021423,Pond,7.7,5.7,976,0.5,500.0,Moderate,1,3.5,0,140
+AFS-00797,2024-09-04 04:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550611,119.021146,Pond,7.8,1.9,2676,1.3,1300.0,Poor,2,3.52,2,141
+AFS-00798,2024-09-04 04:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549851,119.021505,Pond,7.6,3.3,539,0.2,200.0,Moderate,1,3.5,0,142
+AFS-00799,2024-09-04 05:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549865,119.021423,Pond,8.2,2.1,2421,1.1,1100.0,Poor,2,3.5,0,143
+AFS-00800,2024-09-04 05:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550362,119.021721,Pond,7.5,1.7,656,0.3,300.0,Moderate,1,3.5,0,144
+AFS-00801,2024-09-04 06:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550353,119.021536,Pond,7.6,4.6,389,0.2,200.0,Good,0,3.66,22,145
+AFS-00802,2024-09-04 06:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550802,119.022102,Pond,7.7,2.6,402,0.2,200.0,Good,0,3.69,27,146
+AFS-00803,2024-09-04 07:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550549,119.021943,Pond,7.7,1.9,763,0.4,400.0,Moderate,1,3.75,35,147
+AFS-00804,2024-09-04 07:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550546,119.022161,Pond,7.4,2.4,1068,0.6,600.0,Moderate,1,3.76,37,148
+AFS-00805,2024-09-04 08:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550025,119.022005,Pond,8.2,3.0,40686,29.2,29200.0,Poor,2,3.86,51,149
+AFS-00806,2024-09-04 08:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550465,119.021802,Pond,8.2,2.4,35444,24.2,24200.0,Poor,2,3.93,61,150
+AFS-00807,2024-09-04 09:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549902,119.022014,Pond,7.9,1.4,44869,31.3,31300.0,Poor,2,4.02,74,151
+AFS-00808,2024-09-04 09:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550231,119.021687,Pond,7.8,2.2,47271,31.1,31100.0,Poor,2,4.06,79,152
+AFS-00809,2024-09-04 10:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550454,119.021872,Pond,8.0,2.5,40478,24.0,24000.0,Poor,2,3.99,70,153
+AFS-00810,2024-09-04 10:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550637,119.0216,Pond,8.1,4.0,52702,30.1,30100.0,Poor,2,4.06,79,154
+AFS-00811,2024-09-04 11:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.549994,119.021693,Pond,8.0,1.9,53143,30.8,30800.0,Poor,2,4.12,88,155
+AFS-00812,2024-09-04 11:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550368,119.021589,Pond,7.9,2.7,54446,31.6,31600.0,Poor,2,4.09,84,156
+AFS-00813,2024-09-04 12:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550548,119.021569,Pond,7.4,4.3,5506,2.7,2700.0,Poor,2,4.09,84,157
+AFS-00814,2024-09-04 12:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550825,119.022114,Pond,8.1,1.8,38744,22.4,22400.0,Poor,2,4.02,74,158
+AFS-00815,2024-09-04 13:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550507,119.021549,Pond,8.1,1.7,36849,22.0,22000.0,Poor,2,4.0,71,159
+AFS-00816,2024-09-04 13:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550388,119.02163,Pond,8.0,2.2,40877,27.3,27300.0,Poor,2,4.08,82,160
+AFS-00817,2024-09-04 14:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550093,119.021425,Pond,7.2,6.0,170,0.1,100.0,Moderate,1,3.96,65,161
+AFS-00818,2024-09-04 14:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.55028,119.021485,Pond,7.4,4.7,183,0.1,100.0,Good,0,3.96,65,162
+AFS-00819,2024-09-04 15:00:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.550746,119.021526,Pond,7.4,16.2,172,0.1,100.0,Moderate,1,3.95,64,163
+AFS-00820,2024-09-04 15:30:00,HAS-05,Grand Canal Huai'an Section,"Beijing-Hangzhou Grand Canal, Huai'an City, Jiangsu",33.55045,119.021842,Pond,8.3,3.3,263,0.1,100.0,Good,0,3.93,61,164
+AFS-00821,2024-09-01 06:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570223,119.010145,Pond,7.7,0.9,180,0.1,100.0,Good,0,3.7,28,1
+AFS-00822,2024-09-01 06:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570261,119.010266,Pond,8.3,3.1,215,0.1,100.0,Good,0,3.64,20,2
+AFS-00823,2024-09-01 07:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570011,119.010205,Pond,10.1,3.3,286,0.1,100.0,Poor,2,3.77,38,3
+AFS-00824,2024-09-01 07:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570322,119.010709,Pond,8.6,74.5,205,0.1,100.0,Poor,2,3.8,42,4
+AFS-00825,2024-09-01 08:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569586,119.010091,Pond,9.4,16.8,172,0.1,100.0,Poor,2,3.88,54,5
+AFS-00826,2024-09-01 08:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569931,119.010436,Pond,9.3,2.2,189,0.1,100.0,Poor,2,3.95,64,6
+AFS-00827,2024-09-01 09:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570208,119.009818,Pond,9.7,3.6,190,0.1,100.0,Poor,2,3.94,62,7
+AFS-00828,2024-09-01 09:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570598,119.00977,Pond,8.3,3.3,134,0.1,100.0,Good,0,4.09,84,8
+AFS-00829,2024-09-01 10:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570258,119.009884,Pond,7.9,1.3,27495,19.1,19100.0,Poor,2,4.04,77,9
+AFS-00830,2024-09-01 10:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570008,119.009424,Pond,7.9,1.7,20753,13.8,13800.0,Poor,2,4.06,79,10
+AFS-00831,2024-09-01 11:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569793,119.009852,Pond,7.6,1.1,34320,23.7,23700.0,Poor,2,4.1,85,11
+AFS-00832,2024-09-01 11:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569623,119.010244,Pond,8.0,5.7,19622,11.7,11700.0,Poor,2,4.17,95,12
+AFS-00833,2024-09-01 12:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569916,119.010237,Pond,7.7,2.1,42257,26.2,26200.0,Poor,2,4.08,82,13
+AFS-00834,2024-09-01 12:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570171,119.01029,Pond,8.0,3.3,30432,17.1,17100.0,Poor,2,4.11,87,14
+AFS-00835,2024-09-01 13:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569816,119.009674,Pond,7.9,3.1,27978,16.1,16100.0,Poor,2,4.05,78,15
+AFS-00836,2024-09-01 13:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570885,119.010373,Pond,7.7,7.4,33614,19.3,19300.0,Poor,2,4.02,74,16
+AFS-00837,2024-09-01 14:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569603,119.010145,Pond,7.4,1.4,2499,1.2,1200.0,Poor,2,3.93,61,17
+AFS-00838,2024-09-01 14:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570165,119.009924,Pond,7.7,1.6,15398,8.5,8500.0,Poor,2,4.03,75,18
+AFS-00839,2024-09-01 15:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570098,119.010026,Pond,7.8,2.3,14306,8.2,8200.0,Poor,2,3.91,58,19
+AFS-00840,2024-09-01 15:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569931,119.009745,Pond,7.7,2.0,28978,18.8,18800.0,Poor,2,3.81,44,20
+AFS-00841,2024-09-01 16:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570896,119.01011,Pond,9.2,3.8,283,0.1,100.0,Poor,2,3.82,45,21
+AFS-00842,2024-09-01 16:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570277,119.010145,Pond,9.3,0.3,275,0.1,100.0,Poor,2,3.8,42,22
+AFS-00843,2024-09-01 17:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570182,119.010617,Pond,9.1,1.1,678,0.3,300.0,Poor,2,3.72,31,23
+AFS-00844,2024-09-01 17:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570142,119.009722,Pond,8.6,4.1,252,0.1,100.0,Moderate,1,3.64,20,24
+AFS-00845,2024-09-01 18:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569724,119.009875,Pond,8.7,1.3,510,0.2,200.0,Moderate,1,3.71,30,25
+AFS-00846,2024-09-01 18:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570293,119.010276,Pond,8.6,1.7,644,0.3,300.0,Moderate,1,3.67,24,26
+AFS-00847,2024-09-01 19:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570016,119.009787,Pond,8.5,3.4,2445,1.2,1200.0,Poor,2,3.6,14,27
+AFS-00848,2024-09-01 19:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569935,119.009907,Pond,9.0,1.8,687,0.3,300.0,Moderate,1,3.6,14,28
+AFS-00849,2024-09-01 20:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.57013,119.009587,Pond,8.2,0.3,337,0.2,200.0,Good,0,3.76,37,29
+AFS-00850,2024-09-01 20:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570306,119.010627,Pond,8.6,4.9,347,0.2,200.0,Moderate,1,3.61,15,30
+AFS-00851,2024-09-01 21:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569436,119.010561,Pond,8.5,1.0,336,0.2,200.0,Good,0,3.54,5,31
+AFS-00852,2024-09-01 21:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.56974,119.01016,Pond,8.4,0.7,322,0.2,200.0,Good,0,3.64,20,32
+AFS-00853,2024-09-01 22:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570001,119.010098,Pond,7.4,0.6,250,0.1,100.0,Good,0,3.5,0,33
+AFS-00854,2024-09-01 22:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569696,119.010026,Pond,7.3,0.8,139,0.1,100.0,Good,0,3.65,21,34
+AFS-00855,2024-09-01 23:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570077,119.009731,Pond,7.5,0.9,173,0.1,100.0,Good,0,3.53,4,35
+AFS-00856,2024-09-01 23:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569701,119.010195,Pond,7.5,1.5,131,0.1,100.0,Good,0,3.56,8,36
+AFS-00857,2024-09-02 00:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.56993,119.010011,Pond,7.6,1.2,163,0.1,100.0,Good,0,3.6,14,37
+AFS-00858,2024-09-02 00:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.56991,119.009985,Pond,8.0,0.9,343,0.2,200.0,Good,0,3.5,0,38
+AFS-00859,2024-09-02 01:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569666,119.010439,Pond,8.0,2.0,382,0.2,200.0,Good,0,3.67,24,39
+AFS-00860,2024-09-02 01:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570084,119.010528,Pond,7.8,1.4,167,0.1,100.0,Good,0,3.59,12,40
+AFS-00861,2024-09-02 02:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570117,119.009984,Pond,7.6,1.4,274,0.1,100.0,Good,0,3.54,5,41
+AFS-00862,2024-09-02 02:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570329,119.009812,Pond,7.6,0.8,211,0.1,100.0,Good,0,3.58,11,42
+AFS-00863,2024-09-02 03:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569939,119.00976,Pond,7.6,1.4,201,0.1,100.0,Good,0,3.5,0,43
+AFS-00864,2024-09-02 03:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570371,119.009863,Pond,7.4,1.1,176,0.1,100.0,Good,0,3.5,0,44
+AFS-00865,2024-09-02 04:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570017,119.010255,Pond,7.6,1.7,30428,21.5,21500.0,Poor,2,3.5,0,45
+AFS-00866,2024-09-02 04:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569818,119.010063,Pond,7.1,2.6,18524,11.9,11900.0,Poor,2,3.5,0,46
+AFS-00867,2024-09-02 05:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569852,119.009437,Pond,7.9,3.4,41271,29.3,29300.0,Poor,2,3.52,2,47
+AFS-00868,2024-09-02 05:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569809,119.009643,Pond,7.6,4.8,40131,25.7,25700.0,Poor,2,3.5,0,48
+AFS-00869,2024-09-02 06:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569945,119.009819,Pond,7.5,4.1,26185,16.1,16100.0,Poor,2,3.67,24,49
+AFS-00870,2024-09-02 06:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570269,119.010382,Pond,7.9,1.5,52814,30.8,30800.0,Poor,2,3.59,12,50
+AFS-00871,2024-09-02 07:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569659,119.00994,Pond,7.1,6.8,35339,19.2,19200.0,Poor,2,3.85,50,51
+AFS-00872,2024-09-02 07:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.57018,119.010201,Pond,7.1,5.9,25214,13.8,13800.0,Poor,2,3.81,44,52
+AFS-00873,2024-09-02 08:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570025,119.010137,Pond,7.0,6.3,11647,6.1,6100.0,Poor,2,3.88,54,53
+AFS-00874,2024-09-02 08:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570211,119.010237,Pond,7.5,5.8,34489,19.6,19600.0,Poor,2,3.99,70,54
+AFS-00875,2024-09-02 09:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570423,119.010123,Pond,7.5,4.0,22027,14.5,14500.0,Poor,2,4.01,72,55
+AFS-00876,2024-09-02 09:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570421,119.010209,Pond,7.5,4.6,5473,3.2,3200.0,Poor,2,3.96,65,56
+AFS-00877,2024-09-02 10:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569856,119.010089,Pond,7.4,8.8,654,0.4,400.0,Moderate,1,4.04,77,57
+AFS-00878,2024-09-02 10:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570059,119.010093,Pond,7.4,6.0,833,0.5,500.0,Moderate,1,4.09,84,58
+AFS-00879,2024-09-02 11:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570321,119.010057,Pond,7.5,7.2,878,0.5,500.0,Moderate,1,4.18,97,59
+AFS-00880,2024-09-02 11:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.56969,119.010119,Pond,7.8,21.7,1653,0.8,800.0,Poor,2,4.14,91,60
+AFS-00881,2024-09-02 12:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569935,119.009746,Pond,8.1,54.0,200,0.1,100.0,Poor,2,4.19,98,61
+AFS-00882,2024-09-02 12:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569673,119.009765,Pond,7.6,10.1,490,0.2,200.0,Moderate,1,4.06,79,62
+AFS-00883,2024-09-02 13:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569578,119.010005,Pond,7.6,5.9,727,0.3,300.0,Moderate,1,4.05,78,63
+AFS-00884,2024-09-02 13:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569728,119.010456,Pond,7.6,7.5,499,0.2,200.0,Moderate,1,4.11,87,64
+AFS-00885,2024-09-02 14:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570309,119.009803,Pond,7.6,3.7,523,0.2,200.0,Moderate,1,4.03,75,65
+AFS-00886,2024-09-02 14:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569672,119.010267,Pond,8.1,8.8,613,0.3,300.0,Moderate,1,4.05,78,66
+AFS-00887,2024-09-02 15:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570166,119.009647,Pond,7.7,5.2,827,0.4,400.0,Moderate,1,3.92,60,67
+AFS-00888,2024-09-02 15:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570179,119.009715,Pond,7.9,5.5,1461,0.7,700.0,Moderate,1,3.87,52,68
+AFS-00889,2024-09-02 16:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.56959,119.010254,Pond,7.8,3.2,1090,0.6,600.0,Moderate,1,3.84,48,69
+AFS-00890,2024-09-02 16:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570166,119.010188,Pond,8.2,1.8,1914,1.1,1100.0,Poor,2,3.75,35,70
+AFS-00891,2024-09-02 17:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570175,119.010078,Pond,7.8,5.3,1080,0.6,600.0,Moderate,1,3.67,24,71
+AFS-00892,2024-09-02 17:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569697,119.009411,Pond,9.5,5.5,1678,0.8,800.0,Poor,2,3.67,24,72
+AFS-00893,2024-09-02 18:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569531,119.010029,Pond,7.8,28.7,233,0.1,100.0,Poor,2,3.7,28,73
+AFS-00894,2024-09-02 18:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570204,119.009909,Pond,8.3,12.2,193,0.1,100.0,Moderate,1,3.67,24,74
+AFS-00895,2024-09-02 19:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.57022,119.010101,Pond,8.8,4.7,945,0.4,400.0,Moderate,1,3.64,20,75
+AFS-00896,2024-09-02 19:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570141,119.009539,Pond,7.8,16.2,160,0.1,100.0,Moderate,1,3.68,25,76
+AFS-00897,2024-09-02 20:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570184,119.009695,Pond,8.0,4.6,140,0.1,100.0,Good,0,3.68,25,77
+AFS-00898,2024-09-02 20:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569988,119.00996,Pond,8.2,9.6,95,0.0,0.0,Moderate,1,3.63,18,78
+AFS-00899,2024-09-02 21:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570429,119.010325,Pond,8.4,3.6,288,0.1,100.0,Good,0,3.64,20,79
+AFS-00900,2024-09-02 21:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570187,119.010399,Pond,8.0,2.7,647,0.3,300.0,Moderate,1,3.55,7,80
+AFS-00901,2024-09-02 22:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570327,119.010604,Pond,7.6,2.4,82,0.0,0.0,Good,0,3.62,17,81
+AFS-00902,2024-09-02 22:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570075,119.010314,Pond,7.6,1.9,106,0.1,100.0,Good,0,3.65,21,82
+AFS-00903,2024-09-02 23:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570007,119.009895,Pond,7.7,1.9,101,0.1,100.0,Good,0,3.59,12,83
+AFS-00904,2024-09-02 23:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569754,119.01046,Pond,7.6,1.4,103,0.1,100.0,Good,0,3.66,22,84
+AFS-00905,2024-09-03 00:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.56958,119.01011,Pond,7.9,1.0,117,0.1,100.0,Good,0,3.58,11,85
+AFS-00906,2024-09-03 00:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570188,119.010266,Pond,7.7,4.5,124,0.1,100.0,Good,0,3.5,0,86
+AFS-00907,2024-09-03 01:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570037,119.010586,Pond,7.7,3.0,126,0.1,100.0,Good,0,3.51,1,87
+AFS-00908,2024-09-03 01:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569682,119.010444,Pond,7.8,1.9,139,0.1,100.0,Good,0,3.51,1,88
+AFS-00909,2024-09-03 02:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570001,119.010303,Pond,7.8,1.5,131,0.1,100.0,Good,0,3.62,17,89
+AFS-00910,2024-09-03 02:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569777,119.009854,Pond,7.5,1.7,115,0.1,100.0,Good,0,3.59,12,90
+AFS-00911,2024-09-03 03:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570506,119.010169,Pond,7.7,2.2,103,0.1,100.0,Good,0,3.56,8,91
+AFS-00912,2024-09-03 03:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570596,119.009841,Pond,7.7,0.8,110,0.1,100.0,Good,0,3.5,0,92
+AFS-00913,2024-09-03 04:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570103,119.010466,Pond,8.1,1.1,115,0.1,100.0,Good,0,3.5,0,93
+AFS-00914,2024-09-03 04:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570124,119.010139,Pond,8.1,1.2,116,0.1,100.0,Good,0,3.52,2,94
+AFS-00915,2024-09-03 05:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570167,119.009241,Pond,8.6,1.9,127,0.1,100.0,Moderate,1,3.5,0,95
+AFS-00916,2024-09-03 05:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570072,119.009655,Pond,8.1,1.5,131,0.1,100.0,Good,0,3.5,0,96
+AFS-00917,2024-09-03 06:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569939,119.010527,Pond,8.4,1.2,147,0.1,100.0,Good,0,3.72,31,97
+AFS-00918,2024-09-03 06:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.56986,119.009955,Pond,7.9,4.1,144,0.1,100.0,Good,0,3.78,39,98
+AFS-00919,2024-09-03 07:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569865,119.010059,Pond,8.1,1.6,147,0.1,100.0,Good,0,3.81,44,99
+AFS-00920,2024-09-03 07:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569661,119.010187,Pond,8.2,0.9,148,0.1,100.0,Good,0,3.77,38,100
+AFS-00921,2024-09-03 08:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569759,119.010269,Pond,8.0,0.8,150,0.1,100.0,Good,0,3.95,64,101
+AFS-00922,2024-09-03 08:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570076,119.010246,Pond,8.0,1.6,125,0.1,100.0,Good,0,3.88,54,102
+AFS-00923,2024-09-03 09:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570136,119.009845,Pond,8.1,0.8,114,0.1,100.0,Good,0,4.0,71,103
+AFS-00924,2024-09-03 09:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569938,119.009776,Pond,8.3,0.9,119,0.1,100.0,Good,0,3.99,70,104
+AFS-00925,2024-09-03 10:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569535,119.009853,Pond,7.8,1.2,123,0.1,100.0,Good,0,4.06,79,105
+AFS-00926,2024-09-03 10:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569923,119.009928,Pond,7.9,1.5,132,0.1,100.0,Good,0,4.05,78,106
+AFS-00927,2024-09-03 11:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570144,119.010262,Pond,8.0,1.4,139,0.1,100.0,Good,0,4.09,84,107
+AFS-00928,2024-09-03 11:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569639,119.009687,Pond,7.9,1.2,158,0.1,100.0,Good,0,4.06,79,108
+AFS-00929,2024-09-03 12:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569894,119.009769,Pond,8.0,0.8,149,0.1,100.0,Good,0,4.07,81,109
+AFS-00930,2024-09-03 12:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569863,119.010054,Pond,7.5,3.9,148,0.1,100.0,Good,0,4.03,75,110
+AFS-00931,2024-09-03 13:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569833,119.009876,Pond,7.8,1.3,148,0.1,100.0,Good,0,4.09,84,111
+AFS-00932,2024-09-03 13:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569991,119.009745,Pond,7.9,0.9,152,0.1,100.0,Good,0,4.02,74,112
+AFS-00933,2024-09-03 14:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569464,119.009892,Pond,7.6,0.5,154,0.1,100.0,Good,0,4.03,75,113
+AFS-00934,2024-09-03 14:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570055,119.010808,Pond,7.5,1.2,135,0.1,100.0,Good,0,4.02,74,114
+AFS-00935,2024-09-03 15:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569699,119.009971,Pond,7.7,0.7,125,0.1,100.0,Good,0,3.93,61,115
+AFS-00936,2024-09-03 15:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569976,119.00975,Pond,7.9,1.1,129,0.1,100.0,Good,0,3.83,47,116
+AFS-00937,2024-09-03 16:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569835,119.009965,Pond,7.3,13.9,494,0.3,300.0,Moderate,1,3.86,51,117
+AFS-00938,2024-09-03 16:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570522,119.009904,Pond,7.4,10.3,572,0.3,300.0,Moderate,1,3.78,39,118
+AFS-00939,2024-09-03 17:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570244,119.010145,Pond,7.1,11.2,620,0.3,300.0,Moderate,1,3.79,41,119
+AFS-00940,2024-09-03 17:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570118,119.009422,Pond,6.9,6.1,502,0.2,200.0,Moderate,1,3.72,31,120
+AFS-00941,2024-09-03 18:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570254,119.009985,Pond,7.2,4.2,584,0.3,300.0,Moderate,1,3.67,24,121
+AFS-00942,2024-09-03 18:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569984,119.010511,Pond,7.5,30.1,159,0.1,100.0,Poor,2,3.61,15,122
+AFS-00943,2024-09-03 19:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569981,119.010285,Pond,7.1,3.3,521,0.2,200.0,Moderate,1,3.72,31,123
+AFS-00944,2024-09-03 19:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569489,119.009723,Pond,6.9,4.5,538,0.2,200.0,Moderate,1,3.64,20,124
+AFS-00945,2024-09-03 20:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569918,119.009927,Pond,7.1,6.6,276,0.1,100.0,Moderate,1,3.72,31,125
+AFS-00946,2024-09-03 20:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570571,119.010488,Pond,6.9,5.6,244,0.1,100.0,Moderate,1,3.63,18,126
+AFS-00947,2024-09-03 21:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569952,119.010089,Pond,7.3,21.0,584,0.3,300.0,Moderate,1,3.73,32,127
+AFS-00948,2024-09-03 21:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570443,119.00965,Pond,7.0,23.7,613,0.3,300.0,Moderate,1,3.54,5,128
+AFS-00949,2024-09-03 22:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569671,119.009823,Pond,7.4,3.7,725,0.4,400.0,Moderate,1,3.61,15,129
+AFS-00950,2024-09-03 22:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569818,119.009838,Pond,7.6,4.9,686,0.4,400.0,Moderate,1,3.56,8,130
+AFS-00951,2024-09-03 23:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.57025,119.009669,Pond,7.3,6.2,946,0.5,500.0,Moderate,1,3.55,7,131
+AFS-00952,2024-09-03 23:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570365,119.009846,Pond,7.6,4.7,799,0.4,400.0,Moderate,1,3.59,12,132
+AFS-00953,2024-09-04 00:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569931,119.010354,Pond,7.5,2.5,493,0.2,200.0,Good,0,3.52,2,133
+AFS-00954,2024-09-04 00:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569841,119.010145,Pond,7.6,13.4,197,0.1,100.0,Moderate,1,3.57,9,134
+AFS-00955,2024-09-04 01:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570204,119.010123,Pond,8.8,2.8,744,0.3,300.0,Moderate,1,3.5,0,135
+AFS-00956,2024-09-04 01:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569748,119.009734,Pond,7.2,1.8,880,0.4,400.0,Moderate,1,3.52,2,136
+AFS-00957,2024-09-04 02:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570369,119.009809,Pond,7.4,5.4,538,0.2,200.0,Moderate,1,3.55,7,137
+AFS-00958,2024-09-04 02:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569374,119.009825,Pond,7.2,2.0,474,0.2,200.0,Good,0,3.54,5,138
+AFS-00959,2024-09-04 03:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569727,119.009719,Pond,7.5,2.6,546,0.3,300.0,Moderate,1,3.5,0,139
+AFS-00960,2024-09-04 03:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570088,119.009944,Pond,7.2,2.4,609,0.3,300.0,Moderate,1,3.5,0,140
+AFS-00961,2024-09-04 04:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569364,119.009818,Pond,7.2,19.2,1157,0.6,600.0,Moderate,1,3.5,0,141
+AFS-00962,2024-09-04 04:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569176,119.00985,Pond,7.5,18.2,1521,0.9,900.0,Poor,2,3.5,0,142
+AFS-00963,2024-09-04 05:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570417,119.009884,Pond,7.2,19.7,6539,3.6,3600.0,Poor,2,3.5,0,143
+AFS-00964,2024-09-04 05:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570042,119.009361,Pond,7.1,13.0,8172,4.6,4600.0,Poor,2,3.5,0,144
+AFS-00965,2024-09-04 06:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570065,119.010152,Pond,7.2,11.6,1516,0.8,800.0,Poor,2,3.74,34,145
+AFS-00966,2024-09-04 06:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569375,119.010517,Pond,7.6,27.8,187,0.1,100.0,Poor,2,3.9,57,146
+AFS-00967,2024-09-04 07:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570086,119.009986,Pond,7.1,8.5,923,0.4,400.0,Moderate,1,3.8,42,147
+AFS-00968,2024-09-04 07:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569829,119.010099,Pond,7.1,10.9,1002,0.5,500.0,Moderate,1,3.79,41,148
+AFS-00969,2024-09-04 08:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570225,119.009875,Pond,7.2,9.6,689,0.3,300.0,Moderate,1,3.84,48,149
+AFS-00970,2024-09-04 08:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569865,119.010377,Pond,6.9,10.9,448,0.2,200.0,Moderate,1,3.86,51,150
+AFS-00971,2024-09-04 09:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570108,119.009781,Pond,7.2,28.9,1433,0.7,700.0,Poor,2,3.98,68,151
+AFS-00972,2024-09-04 09:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570206,119.010555,Pond,7.1,27.0,2012,1.1,1100.0,Poor,2,4.04,77,152
+AFS-00973,2024-09-04 10:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570201,119.010029,Pond,7.4,15.5,830,0.5,500.0,Moderate,1,4.06,79,153
+AFS-00974,2024-09-04 10:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569784,119.010224,Pond,7.3,17.3,861,0.5,500.0,Moderate,1,4.13,89,154
+AFS-00975,2024-09-04 11:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569981,119.010028,Pond,7.3,15.1,897,0.5,500.0,Moderate,1,4.09,84,155
+AFS-00976,2024-09-04 11:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569965,119.010064,Pond,7.5,14.1,608,0.3,300.0,Moderate,1,4.11,87,156
+AFS-00977,2024-09-04 12:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570296,119.010261,Pond,7.3,9.4,2174,1.1,1100.0,Poor,2,4.17,95,157
+AFS-00978,2024-09-04 12:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569733,119.010287,Pond,7.4,18.0,494,0.2,200.0,Moderate,1,4.07,81,158
+AFS-00979,2024-09-04 13:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570442,119.009819,Pond,7.0,15.9,1299,0.6,600.0,Moderate,1,4.11,87,159
+AFS-00980,2024-09-04 13:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569508,119.009882,Pond,7.2,20.9,1166,0.5,500.0,Moderate,1,4.05,78,160
+AFS-00981,2024-09-04 14:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.56986,119.010192,Pond,7.2,20.2,1148,0.5,500.0,Moderate,1,4.05,78,161
+AFS-00982,2024-09-04 14:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570097,119.009656,Pond,7.3,39.8,564,0.3,300.0,Poor,2,3.99,70,162
+AFS-00983,2024-09-04 15:00:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.569103,119.009944,Pond,7.2,12.4,2677,1.4,1400.0,Poor,2,3.92,60,163
+AFS-00984,2024-09-04 15:30:00,HAS-06,Huaihe River Monitoring Point,"Huaihe River, Huai'an, Jiangsu",33.570362,119.010233,Pond,7.1,18.8,1718,0.9,900.0,Poor,2,3.83,47,164

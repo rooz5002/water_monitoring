@@ -1,0 +1,6 @@
+Model,CV_F1_%,Test_F1_%,MCC,LL,McNemar_p,Sig_Bonf
+Linear SVM,79.887,74.157,0.7024,,0.0,True
+Logistic Reg,79.864,76.434,0.7035,0.55231,0.0,True
+RBF Default,71.724,72.862,0.6152,,0.0,True
+Random Forest,98.274,97.807,0.9693,0.05525,0.145996,False
+kNN k=5,87.235,89.927,0.8571,0.54838,0.049042,False
