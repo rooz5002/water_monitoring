@@ -1,0 +1,23 @@
+1792430366.064	@BOOT,reset,36
+1792430366.064	AFS power test firmware - press any key within 2 s for the console
+1792430366.077	commands:
+1792430366.077	  show                    print configuration
+1792430366.088	  set <key> <value>       keys: sleep fill settle measure drain dry gnss reg move
+1792430366.088	                          ncycles cpu modem gnssen force apn host port path
+1792430366.099	  cycle                   run one full cycle now, stay awake
+1792430366.099	  auto                    cycle -> deep sleep(sleep) -> cycle ... (ncycles, 0=forever)
+1792430366.110	  step <name>             hold one subsystem on until any key
+1792430366.110	  sleep <s>               deep sleep for s seconds, then back to this console
+1792430366.121	  modem on|off            power the SIM7000G up/down
+1792430366.121	  at <command>            send a raw AT command
+1792430366.132	  echo on|off             show AT traffic
+1792430366.132	  vbat                    battery and solar voltage
+1792430366.132	  read [n]                print all analog inputs n times (1 s apart)
+1792430366.333	afs>
+1792430369.143	sleep 120
+1792430369.149	  AT> AT  <- OK
+1792430369.154	  AT> AT  <- OK
+1792430369.160	  AT> AT+SGPIO=0,4,1,0  <- OK
+1792430369.176	  AT> AT+CPOWD=1  <- NORMAL POWER DOWN
+1792430369.673	@SLEEP,120
+1792430488.296	@BOOT,timer,36

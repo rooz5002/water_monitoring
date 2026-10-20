@@ -14,7 +14,7 @@ Classification is done by **PSO-ASVM**: a Particle-Swarm-Optimised Adaptive Supp
 - **Zero Good-class false positives for genuinely Poor water** — the model never labelled contaminated water as safe.
 - **0.2494 ms/inference measured on-device** on the ESP32 LilyGO T-SIM7000G (esp_timer, averaged over 2000 inferences), a ~7.2-million-times headroom against the 30-minute sample cycle.
 - **Self-cleaning sealed sampling chamber** with an active drain-and-dry cycle after every measurement, avoiding the 7–14 day biofouling limit of continuous-immersion sensors.
-- **Solar-powered, autonomous 2–3 years** of unattended operation (10 W panel + Li-ion cell), with 3–4 days of battery-only autonomy without sunlight.
+- **Solar-powered, autonomous 2–3 years** of unattended operation (10 W panel + Li-ion cell), with a **measured** daily requirement of 2.76 Wh (21 mWh per 160 s active cycle, 20 mA deep sleep) — 2.6 days of battery-only autonomy on a 2400 mAh cell (4.3 days on 4000 mAh); see [`Power_measurement/`](Power_measurement/).
 - **Passive LDR-pair differential repositioning** — the station keeps station on open water using only a photoresistor pair and an H-bridge motor driver, without GPS-based station-keeping.
 - Field-validated at **six sites** (three open freshwater lakes, three urban waterways) in Huai'an, Jiangsu, China.
 
@@ -46,12 +46,17 @@ water_monitoring/
 │                                #   version of the script — see legacy_figures/README.md.
 │                                #   Manuscript Fig. 15 (feature importance) is not reproducible
 │                                #   from the code in this repo.
-└── Latency_test/               # On-device (ESP32) inference latency benchmark
-    ├── build_model_h.py        #   deterministic rebuild of the PSO-optimal SVM (C=199.526, γ=1.318)
-    ├── export_model.py         #   exports the fitted scaler + SVC to a C header (model.h)
-    ├── model.h                 #   exported model: 154 support vectors, 4 features, 3 classes
-    ├── svm_benchmark.ino       #   Arduino sketch: on-device inference + esp_timer latency measurement
-    └── readme_first.txt        #   step-by-step latency measurement instructions
+├── Latency_test/               # On-device (ESP32) inference latency benchmark
+│   ├── build_model_h.py        #   deterministic rebuild of the PSO-optimal SVM (C=199.526, γ=1.318)
+│   ├── export_model.py         #   exports the fitted scaler + SVC to a C header (model.h)
+│   ├── model.h                 #   exported model: 154 support vectors, 4 features, 3 classes
+│   ├── svm_benchmark.ino       #   Arduino sketch: on-device inference + esp_timer latency measurement
+│   └── readme_first.txt        #   step-by-step latency measurement instructions
+└── Power_measurement/          # Measured power budget on the T-SIM7000G
+    ├── afs_power_test/         #   Arduino sketch re-creating the 30-min cycle with phase markers
+    ├── afs_measure.py          #   guided laptop-side measurement + report generator
+    ├── results/                #   power_report*.md, measurements.json, raw serial logs
+    └── README.md               #   results, method, limitations, wiring
 ```
 
 ---

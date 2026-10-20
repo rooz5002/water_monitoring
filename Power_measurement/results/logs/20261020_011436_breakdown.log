@@ -1,0 +1,82 @@
+1792430076.440	@BOOT,reset,36
+1792430076.440	AFS power test firmware - press any key within 2 s for the console
+1792430076.453	commands:
+1792430076.453	  show                    print configuration
+1792430076.464	  set <key> <value>       keys: sleep fill settle measure drain dry gnss reg move
+1792430076.464	                          ncycles cpu modem gnssen force apn host port path
+1792430076.475	  cycle                   run one full cycle now, stay awake
+1792430076.475	  auto                    cycle -> deep sleep(sleep) -> cycle ... (ncycles, 0=forever)
+1792430076.486	  step <name>             hold one subsystem on until any key
+1792430076.486	  sleep <s>               deep sleep for s seconds, then back to this console
+1792430076.497	  modem on|off            power the SIM7000G up/down
+1792430076.497	  at <command>            send a raw AT command
+1792430076.508	  echo on|off             show AT traffic
+1792430076.508	  vbat                    battery and solar voltage
+1792430076.508	  read [n]                print all analog inputs n times (1 s apart)
+1792430076.709	afs>
+1792430079.519	step idle
+1792430080.021	  AT> AT  <-   [FAIL]
+1792430080.022	@STEP_READY,idle
+1792430124.230	@STEP_END,idle
+1792430124.236	afs> step cpu
+1792430124.236	@STEP_READY,cpu
+1792430151.392	@STEP_END,cpu
+1792430151.397	afs> step ledr
+1792430151.397	@STEP_READY,ledr
+1792430184.637	@STEP_END,ledr
+1792430184.643	afs> step ledg
+1792430184.643	@STEP_READY,ledg
+1792430205.782	@STEP_END,ledg
+1792430205.788	afs> step pump
+1792430205.788	@STEP_READY,pump
+1792430221.657	@STEP_END,pump
+1792430221.664	afs> step blower
+1792430221.664	@STEP_READY,blower
+1792430241.103	@STEP_END,blower
+1792430241.108	afs> step m1
+1792430241.108	@STEP_READY,m1
+1792430265.528	@STEP_END,m1
+1792430265.533	afs> step modem_on
+1792430266.033	  AT> AT  <-   [FAIL]
+1792430267.533	  AT> AT  <-   [FAIL]
+1792430268.033	  AT> AT  <-   [FAIL]
+1792430268.533	  AT> AT  <-   [FAIL]
+1792430269.033	  AT> AT  <-   [FAIL]
+1792430269.533	  AT> AT  <-   [FAIL]
+1792430270.033	  AT> AT  <-   [FAIL]
+1792430270.533	  AT> AT  <-   [FAIL]
+1792430271.033	  AT> AT  <-   [FAIL]
+1792430271.534	  AT> AT  <- 怘�f`�f
+��  [FAIL]
+1792430272.035	  AT> AT  <- +CFUN: 1 |  | +CPIN: READY  [FAIL]
+1792430272.038	  AT> AT  <- AT
+ | OK
+1792430272.044	  AT> ATE0  <- ATE0
+ | OK
+1792430272.048	  AT> AT+CMEE=2  <- OK
+1792430273.177	  AT> AT+CFUN=0  <- +CPIN: NOT READY |  | OK
+1792430273.178	@STEP_READY,modem_on
+1792430288.823	@STEP_END,modem_on
+1792430288.827	afs> step gnss
+1792430288.839	  AT> AT+SGPIO=0,4,1,1  <- OK
+1792430288.845	  AT> AT+CGNSPWR=1  <- OK
+1792430288.845	@STEP_READY,gnss
+1792430299.909	  AT> AT+CGNSPWR=0  <- OK
+1792430299.916	  AT> AT+SGPIO=0,4,1,0  <- OK
+1792430299.916	@STEP_END,gnss
+1792430299.923	afs> step modem_reg
+1792430299.932	  AT> AT+CPIN?  <- +CME ERROR: SIM failure  [FAIL]
+1792430300.937	  AT> AT+CPIN?  <- +CME ERROR: SIM failure  [FAIL]
+1792430301.942	  AT> AT+CPIN?  <- +CME ERROR: SIM failure  [FAIL]
+1792430302.947	  AT> AT+CPIN?  <- +CME ERROR: SIM failure  [FAIL]
+1792430303.952	  AT> AT+CPIN?  <- +CME ERROR: SIM failure  [FAIL]
+1792430304.950	@STEP_READY,modem_reg,NOT_registered
+1792430319.409	@STEP_END,modem_reg
+1792430319.413	afs> step modem_tx
+1792430319.422	  AT> AT+CPIN?  <- +CME ERROR: SIM failure  [FAIL]
+1792430320.427	  AT> AT+CPIN?  <- +CME ERROR: SIM failure  [FAIL]
+1792430321.432	  AT> AT+CPIN?  <- +CME ERROR: SIM failure  [FAIL]
+1792430322.437	  AT> AT+CPIN?  <- +CME ERROR: SIM failure  [FAIL]
+1792430323.442	  AT> AT+CPIN?  <- +CME ERROR: SIM failure  [FAIL]
+1792430324.440	@STEP_READY,modem_tx,NOT_registered
+1792430348.139	@STEP_END,modem_tx

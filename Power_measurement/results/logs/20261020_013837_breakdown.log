@@ -1,0 +1,79 @@
+1792431517.682	@BOOT,reset,36
+1792431517.682	AFS power test firmware - press any key within 2 s for the console
+1792431517.695	commands:
+1792431517.695	  show                    print configuration
+1792431517.706	  set <key> <value>       keys: sleep fill settle measure drain dry gnss reg move
+1792431517.706	                          ncycles cpu modem gnssen force apn host port path
+1792431517.717	  cycle                   run one full cycle now, stay awake
+1792431517.717	  auto                    cycle -> deep sleep(sleep) -> cycle ... (ncycles, 0=forever)
+1792431517.728	  step <name>             hold one subsystem on until any key
+1792431517.728	  sleep <s>               deep sleep for s seconds, then back to this console
+1792431517.739	  modem on|off            power the SIM7000G up/down
+1792431517.739	  at <command>            send a raw AT command
+1792431517.750	  echo on|off             show AT traffic
+1792431517.750	  vbat                    battery and solar voltage
+1792431517.750	  read [n]                print all analog inputs n times (1 s apart)
+1792431517.951	afs>
+1792431520.762	step modem_reg
+1792431521.262	  AT> AT  <-   [FAIL]
+1792431522.762	  AT> AT  <-   [FAIL]
+1792431523.262	  AT> AT  <-   [FAIL]
+1792431523.762	  AT> AT  <-   [FAIL]
+1792431524.262	  AT> AT  <-   [FAIL]
+1792431524.762	  AT> AT  <-   [FAIL]
+1792431525.262	  AT> AT  <-   [FAIL]
+1792431525.762	  AT> AT  <-   [FAIL]
+1792431526.262	  AT> AT  <-   [FAIL]
+1792431526.763	  AT> AT  <- 怘�f`�f
+��  [FAIL]
+1792431527.265	  AT> AT  <- +CFUN: 1 |  | +CPIN: READY  [FAIL]
+1792431527.267	  AT> AT  <- AT
+ | OK
+1792431527.273	  AT> ATE0  <- ATE0
+ | OK
+1792431527.277	  AT> AT+CMEE=2  <- OK
+1792431527.282	  AT> AT+CFUN=1  <- OK
+1792431527.289	  AT> AT+CPIN?  <- +CPIN: READY |  | OK
+1792431527.292	  AT> AT+CFUN=1  <- OK
+1792431527.297	  AT> AT+CNMP=2  <- OK
+1792431527.302	  AT> AT+CMNB=3  <- OK
+1792431530.364	  registered via AT+CREG? after 3060 ms
+1792431530.369	  AT> AT+CSQ  <- +CSQ: 21,99 |  | OK
+1792431530.382	  AT> AT+COPS?  <- +COPS: 0,0,"CHINA MOBILE CMCC",0 |  | OK
+1792431530.399	  AT> AT+CPSI?  <- +CPSI: GSM,Online,460-00,0x518a,29234,51 EGSM 900,-72,0,0-0 |  | OK
+1792431530.399	@STEP_READY,modem_reg,registered
+1792431563.530	@STEP_END,modem_reg
+1792431563.534	afs> step modem_tx
+1792431563.540	  AT> AT+CFUN=1  <- OK
+1792431563.547	  AT> AT+CPIN?  <- +CPIN: READY |  | OK
+1792431563.550	  AT> AT+CFUN=1  <- OK
+1792431563.555	  AT> AT+CNMP=2  <- OK
+1792431563.560	  AT> AT+CMNB=3  <- OK
+1792431563.572	  registered via AT+CGREG? after 10 ms
+1792431563.576	  AT> AT+CSQ  <- +CSQ: 18,99 |  | OK
+1792431563.589	  AT> AT+COPS?  <- +COPS: 0,0,"CHINA MOBILE CMCC",3 |  | OK
+1792431563.606	  AT> AT+CPSI?  <- +CPSI: GSM,Online,460-00,0x518a,29234,51 EGSM 900,-79,0,19-129 |  | OK
+1792431563.606	@STEP_READY,modem_tx,registered
+1792431591.959	  AT> AT+CIPSHUT  <- SHUT OK
+1792431591.959	  AT> AT+CIPMUX=0  <- OK
+1792431591.959	  AT> AT+CSTT="cmnet"  <- OK
+1792431591.959	  AT> AT+CIICR  <- OK
+1792431591.959	  AT> AT+CIFSR  <- x.x.x.x
+1792431591.959	  AT> AT+CIPSTART="TCP","httpbin.org",80  <- OK |  | CONNECT OK
+1792431591.959	  AT> AT+CIPSEND=139  <- >
+1792431591.959	  HTTP status 200
+1792431591.960	  AT> AT+CIPCLOSE  <- [HTTP response body omitted] | CLOSE OK
+1792431591.961	  AT> AT+CIPSHUT  <- SHUT OK
+1792431591.961	  posts 1 ok 1
+1792431591.961	  AT> AT+CIPSHUT  <- SHUT OK
+1792431591.961	  AT> AT+CIPMUX=0  <- OK
+1792431591.962	  AT> AT+CSTT="cmnet"  <- OK
+1792431591.962	  AT> AT+CIICR  <- OK
+1792431591.962	  AT> AT+CIFSR  <- x.x.x.x
+1792431591.962	  AT> AT+CIPSTART="TCP","httpbin.org",80  <- OK |  | CONNECT OK
+1792431591.962	  AT> AT+CIPSEND=139  <- >
+1792431593.289	  HTTP status 200
+1792431593.331	  AT> AT+CIPCLOSE  <- [HTTP response body omitted] | CLOSE OK
+1792431593.364	  AT> AT+CIPSHUT  <- SHUT OK
+1792431593.364	  posts 2 ok 2
+1792431593.364	@STEP_END,modem_tx

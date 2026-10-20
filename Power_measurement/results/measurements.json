@@ -1,0 +1,298 @@
+{
+  "breakdown": {
+    "idle_all": {
+      "mA": 67.0,
+      "V": 5.12,
+      "mW": 343.0,
+      "status": "ok",
+      "when": "2026-10-20T01:15:24"
+    },
+    "cpu": {
+      "mA": 91.0,
+      "V": 5.12,
+      "mW": 465.9,
+      "status": "ok",
+      "when": "2026-10-20T01:15:51"
+    },
+    "led_red": {
+      "mA": 73.0,
+      "V": 5.14,
+      "mW": 375.2,
+      "status": "ok",
+      "when": "2026-10-20T01:16:24"
+    },
+    "led_green": {
+      "mA": 73.0,
+      "V": 5.12,
+      "mW": 373.8,
+      "status": "ok",
+      "when": "2026-10-20T01:16:45"
+    },
+    "pump": {
+      "mA": 104.0,
+      "V": 5.11,
+      "mW": 531.4,
+      "status": "ok",
+      "when": "2026-10-20T01:17:01"
+    },
+    "blower": {
+      "mA": 162.0,
+      "V": 5.11,
+      "mW": 827.8,
+      "status": "ok",
+      "when": "2026-10-20T01:17:21"
+    },
+    "motor1": {
+      "mA": 119.0,
+      "V": 5.11,
+      "mW": 608.1,
+      "status": "ok",
+      "when": "2026-10-20T01:17:45"
+    },
+    "modem_on": {
+      "mA": 78.0,
+      "V": 5.12,
+      "mW": 399.4,
+      "status": "ok",
+      "when": "2026-10-20T01:18:08"
+    },
+    "gnss": {
+      "mA": 105.0,
+      "V": 5.12,
+      "mW": 537.6,
+      "status": "ok",
+      "when": "2026-10-20T01:18:19"
+    },
+    "modem_reg": {
+      "mA": 79.0,
+      "V": 5.12,
+      "mW": 404.5,
+      "status": "registered",
+      "when": "2026-10-20T01:39:23"
+    },
+    "modem_tx": {
+      "mA": 98.0,
+      "V": 5.12,
+      "mW": 501.8,
+      "peak_mA": 121.0,
+      "status": "registered",
+      "when": "2026-10-20T01:39:51"
+    }
+  },
+  "sleep": [
+    {
+      "when": "2026-10-20T01:20:28",
+      "readings": [
+        {
+          "mA": 30.0,
+          "V": 5.13,
+          "mW": 153.9
+        },
+        {
+          "mA": 30.0,
+          "V": 5.13,
+          "mW": 153.9
+        },
+        {
+          "mA": 30.0,
+          "V": 5.13,
+          "mW": 153.9
+        }
+      ],
+      "power_source": "usb"
+    },
+    {
+      "when": "2026-10-20T13:28:02",
+      "power_source": "battery",
+      "readings": [
+        {
+          "mA": 20.0,
+          "V": 4.0,
+          "mW": 80.0
+        },
+        {
+          "mA": 20.0,
+          "V": 4.0,
+          "mW": 80.0
+        },
+        {
+          "mA": 20.0,
+          "V": 4.0,
+          "mW": 80.0
+        }
+      ]
+    }
+  ],
+  "cycles": [
+    {
+      "when": "2026-10-20T01:50:56",
+      "n": 3,
+      "sleep_s": 30,
+      "timings": {
+        "fill": 15,
+        "settle": 10,
+        "measure": 5,
+        "drain": 15,
+        "dry": 30,
+        "gnss": 60,
+        "reg": 90,
+        "move": 10
+      },
+      "elapsed_s": 540.0,
+      "total_mAh": 18.0,
+      "total_mWh": 90.0,
+      "V": 5.1,
+      "counters": {
+        "mAh": [
+          720.0,
+          738.0
+        ],
+        "mWh": [
+          3986.0,
+          4076.0
+        ]
+      },
+      "cycles": [
+        {
+          "cycle": 1,
+          "active_s": 153.914,
+          "tx_ok": true,
+          "gnss_fix": false,
+          "phases": {
+            "wake_check": 0.001,
+            "pump_fill": 15.011,
+            "sense": 15.022,
+            "inference": 0.012,
+            "drain": 15.0,
+            "dry_blower": 30.0,
+            "modem_on": 0.005,
+            "gnss": 60.35,
+            "transmit": 7.59,
+            "modem_off": 0.52,
+            "reposition": 10.003
+          }
+        },
+        {
+          "cycle": 2,
+          "active_s": 164.834,
+          "tx_ok": true,
+          "gnss_fix": false,
+          "phases": {
+            "wake_check": 0.001,
+            "pump_fill": 15.011,
+            "sense": 15.022,
+            "inference": 0.012,
+            "drain": 15.0,
+            "dry_blower": 30.0,
+            "modem_on": 6.515,
+            "gnss": 60.35,
+            "transmit": 12.0,
+            "modem_off": 0.52,
+            "reposition": 10.003
+          }
+        },
+        {
+          "cycle": 3,
+          "active_s": 160.993,
+          "tx_ok": true,
+          "gnss_fix": false,
+          "phases": {
+            "wake_check": 0.001,
+            "pump_fill": 15.011,
+            "sense": 15.022,
+            "inference": 0.012,
+            "drain": 15.0,
+            "dry_blower": 30.0,
+            "modem_on": 6.515,
+            "gnss": 60.35,
+            "transmit": 8.159,
+            "modem_off": 0.52,
+            "reposition": 10.003
+          }
+        }
+      ]
+    }
+  ],
+  "system": {},
+  "cycles_invalid": [
+    {
+      "when": "2026-10-20T01:33:50",
+      "n": 3,
+      "sleep_s": 30,
+      "timings": {
+        "fill": 15,
+        "settle": 10,
+        "measure": 5,
+        "drain": 15,
+        "dry": 30,
+        "gnss": 60,
+        "reg": 90,
+        "move": 10
+      },
+      "elapsed_s": 537.5,
+      "total_mAh": 0.069,
+      "total_mWh": 3931.0,
+      "V": 5.12,
+      "cycles": [
+        {
+          "cycle": 1,
+          "active_s": 158.406,
+          "tx_ok": true,
+          "gnss_fix": false,
+          "phases": {
+            "wake_check": 0.001,
+            "pump_fill": 15.011,
+            "sense": 15.022,
+            "inference": 0.012,
+            "drain": 15.0,
+            "dry_blower": 30.0,
+            "modem_on": 6.52,
+            "gnss": 60.35,
+            "transmit": 5.567,
+            "modem_off": 0.52,
+            "reposition": 10.003
+          }
+        },
+        {
+          "cycle": 2,
+          "active_s": 158.453,
+          "tx_ok": true,
+          "gnss_fix": false,
+          "phases": {
+            "wake_check": 0.001,
+            "pump_fill": 15.011,
+            "sense": 15.022,
+            "inference": 0.012,
+            "drain": 15.0,
+            "dry_blower": 30.0,
+            "modem_on": 6.515,
+            "gnss": 60.35,
+            "transmit": 5.619,
+            "modem_off": 0.52,
+            "reposition": 10.003
+          }
+        },
+        {
+          "cycle": 3,
+          "active_s": 160.411,
+          "tx_ok": true,
+          "gnss_fix": false,
+          "phases": {
+            "wake_check": 0.001,
+            "pump_fill": 15.011,
+            "sense": 15.022,
+            "inference": 0.012,
+            "drain": 15.0,
+            "dry_blower": 30.0,
+            "modem_on": 6.52,
+            "gnss": 60.35,
+            "transmit": 7.572,
+            "modem_off": 0.52,
+            "reposition": 10.003
+          }
+        }
+      ],
+      "invalid": "meter counters were not cleared: 711 mAh / 3931 mWh are meter lifetime totals"
+    }
+  ]
+}
