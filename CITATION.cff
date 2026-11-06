@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code or dataset, please cite it as below. Citation details
+  for the accompanying journal article will be added once it is published.
+title: >-
+  water_monitoring: An IoT Enabled Autonomous Floating Station for Real-Time
+  Water Quality Monitoring with Machine Learning
+type: software
+authors:
+  - family-names: Mokhtarzadeh
+    given-names: Amir A.
+    affiliation: "Robotics Lab, Huai'an University"
+  - family-names: Naeem
+    given-names: H.
+    affiliation: "Robotics Lab, Huai'an University"
+repository-code: "https://github.com/rooz5002/water_monitoring"
+license: CC-BY-NC-4.0
+date-released: "2026-11-06"
+keywords:
+  - water quality monitoring
+  - IoT
+  - autonomous floating station
+  - machine learning
+  - PSO-ASVM
+  - ESP32
